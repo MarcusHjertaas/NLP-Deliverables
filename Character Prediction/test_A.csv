@@ -1,270 +1,270 @@
 char,dialog,word_len,character_len,stopword_count,verb_count,adj_count,propn_count,uinque_words,dialog_sentiment,topic,trust,fear,anger,positive,negative,disgust,surprise,joy,anticipation,sadness,avg_tf-idf
-SMEAGOL,But we swore to serve the masterof the precious. ,9,49,5,2,1,0,8,0.375,2,0,0,0,0,1,0,0,0,1,0,1.0177617861802584
+GOLLUM,But we swore to serve the masterof the precious. ,9,49,5,2,1,0,8,0.375,2,0,0,0,0,1,0,0,0,1,0,1.0177617861802584
 BILBO,    I think I'm quite ready for another adventure.  ,8,52,2,1,1,0,8,-0.75,4,0,0,0,0,0,0,0,0,2,0,0.7016127634721704
-GANDALF, Gwaihir go! Gwaihir ,3,21,0,1,0,2,2,0.0,5,0,0,0,0,0,0,0,0,0,0,0.0
-PIPPIN, What do they     look like? ,5,29,3,1,0,0,5,0.125,5,0,0,0,0,0,0,0,0,0,0,1.4618187505704279
-PIPPIN,And whose side are you on? ,6,27,3,0,0,0,6,0.0,5,0,0,0,0,0,0,0,0,0,0,1.4618187505704279
+GANDALF, Gwaihir go! Gwaihir ,3,21,0,1,0,2,2,0.0,3,0,0,0,0,0,0,0,0,0,0,0.0
+PIPPIN, What do they     look like? ,5,29,3,1,0,0,5,0.125,3,0,0,0,0,0,0,0,0,0,0,1.4618187505704279
+PIPPIN,And whose side are you on? ,6,27,3,0,0,0,6,0.0,3,0,0,0,0,0,0,0,0,0,0,1.4618187505704279
 SOLDIER 2,Will Rohan's army come?  Mithrandir? ,5,37,1,1,0,2,5,0.125,4,0,0,0,0,0,0,0,0,0,0,0.39799911436031193
-GANDALF,Bilbo Baggins.  ,2,16,0,0,0,2,2,0.0,5,0,0,0,0,0,0,0,0,0,0,0.0
-ARAGORN,Tangado a chadad! ,3,18,1,0,0,0,3,0.0,4,0,0,0,0,0,0,0,0,0,0,0.9805537314147131
+GANDALF,Bilbo Baggins.  ,2,16,0,0,0,2,2,0.0,1,0,0,0,0,0,0,0,0,0,0,0.0
+ARAGORN,Tangado a chadad! ,3,18,1,0,0,0,3,0.0,0,0,0,0,0,0,0,0,0,0,0,0.9805537314147131
 SAM,    Nooooooo! ,1,14,0,0,0,1,1,0.0,2,0,0,0,0,0,0,0,0,0,0,0.0
 PIPPIN,"I'm sorry, Treebeard.       ",3,28,0,0,1,1,3,-0.625,4,0,0,0,0,0,0,0,0,0,0,0.0
-ELROND,"  You ride to war     but not to victory.  Sauron's armies ride on Minas Tirith, this you know.      But in secret he sends another force, which will attack, from the river.    , A fleet of Corsair ships sails from the South.  They will be     in the city in two days.  You're outnumbered Aragorn.  You need more men. ",56,318,28,7,1,6,47,0.25,6,1,1,2,1,0,0,0,0,1,0,0.1466135803730083
+ELROND,"  You ride to war     but not to victory.  Sauron's armies ride on Minas Tirith, this you know.      But in secret he sends another force, which will attack, from the river.    , A fleet of Corsair ships sails from the South.  They will be     in the city in two days.  You're outnumbered Aragorn.  You need more men. ",56,318,28,7,1,6,47,0.25,2,1,1,2,1,0,0,0,0,1,0,0.1466135803730083
 ELROND,The man who can wield the power of this sword can summon to him an army     more deadly than any that walks this earth.  Put aside the Ranger.  Become     who you were born to be 'nen i-Estel Edain.  ,38,200,21,6,1,5,33,-0.5,3,0,0,1,0,0,0,0,0,0,0,0.3259671759813336
-SAM,    Frodo!  ,1,12,0,0,0,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
+SAM,    Frodo!  ,1,12,0,0,0,1,1,0.0,3,0,0,0,0,0,0,0,0,0,0,0.0
 VOICE,Bilbo! Bilbo Baggins! ,3,22,0,1,0,2,3,0.0,5,0,0,0,0,0,0,0,0,0,0,0.0
 LEGOLAS,The White Wizard approaches. ,4,29,1,0,0,2,4,0.125,3,0,0,0,0,0,0,0,0,0,0,1.4708305971220694
 MERRY,What! ,1,6,0,0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
-THEODEN,Time is against us. Make ready! ,6,32,2,1,1,0,6,0.375,5,0,0,0,0,0,0,0,0,1,0,0.6891781012925065
-FRODO,You will lead us to the Black Gate. ,8,36,4,1,0,2,8,-0.125,3,0,0,0,1,0,0,0,0,0,0,0.8312404423123751
+THEODEN,Time is against us. Make ready! ,6,32,2,1,1,0,6,0.375,3,0,0,0,0,0,0,0,0,1,0,0.6891781012925065
+FRODO,You will lead us to the Black Gate. ,8,36,4,1,0,2,8,-0.125,5,0,0,0,1,0,0,0,0,0,0,0.8312404423123751
 FRODO,Sam!  ,1,6,0,0,0,2,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
-BOROMIR,We must get off the mountain! Make for the Gap of Rohan and     take the west road to my city! ,20,95,10,3,0,3,18,0.375,3,0,0,0,0,0,0,0,0,1,0,0.360390199953886
-EOMER,Too long have you watched my sister.Too long have you haunted her steps.,13,72,7,2,0,0,10,-0.125,1,0,1,0,0,0,0,0,0,2,0,0.8618628394495599
-GANDALF,Helm's Deep. ,2,13,0,0,0,2,2,0.0,1,0,0,0,0,0,0,0,0,0,0,0.8650292013213888
-ARWEN,"From the ashes of fire shall be woken,     A light from the shadow shall spring,     Renewed shall be blade that was broken,         The crownless again shall be king. ",28,168,13,2,0,1,22,0.25,2,0,1,1,1,1,0,0,0,0,0,0.5057780335563339
-BILBO,"There and back again, A Hobbit's tale, by Bilbo     Baggins. ,Now, where to begin?     Ah, yes. ,Concerning Hobbits.  ",18,118,6,2,0,4,18,0.25,0,0,0,0,1,0,0,0,0,0,0,0.17753378770846184
-LEGOLAS,"One that is cursed. Long ago the men of the mountains swore an oath to     the last King of Gondor , to come to his aid, to fight. But when     the time came, when Gondor's need was dire, they fled vanishing into the     darkness of the mountain. And so Isildur cursed them, never to rest until     they had fulfilled their pledge. Who shall call them from the grey twilight,     the forgotten people? The heir of him to whom the oath they swore. From the     North shall he come, need shall drive him. He shall pass the door to the     Paths of the Dead.  ",103,557,51,16,3,6,73,-2.125,5,0,2,4,4,0,1,0,1,2,0,0.1414952782896879
-MERRY,Hello?Treebeard?Where has he gone? ,4,35,2,1,0,0,4,0.0,4,0,0,0,0,0,0,0,0,0,0,0.4325146006606944
-GRIMA,"You see much, Eomer, son of Eomund.",7,35,2,1,0,2,7,0.0,3,0,0,0,0,0,0,0,0,0,0,0.32811768661941376
-SAM,He took it.  He must have.  ,6,28,2,2,0,0,5,0.375,5,0,0,0,0,0,0,0,0,0,0,1.5469563545314262
-SMEAGOL,"It wasn't us. It wasn't us. ,Smeagol wouldn't hurt master. We promised. You must believe us. It was the precious. The precious made us do it.  ",26,143,12,5,2,1,21,1.25,2,0,0,1,1,0,0,0,0,2,0,0.5137643511016377
+BOROMIR,We must get off the mountain! Make for the Gap of Rohan and     take the west road to my city! ,20,95,10,3,0,3,18,0.375,0,0,0,0,0,0,0,0,0,1,0,0.360390199953886
+EOMER,Too long have you watched my sister.Too long have you haunted her steps.,13,72,7,2,0,0,10,-0.125,6,0,1,0,0,0,0,0,0,2,0,0.8618628394495599
+GANDALF,Helm's Deep. ,2,13,0,0,0,2,2,0.0,6,0,0,0,0,0,0,0,0,0,0,0.8650292013213888
+ARWEN,"From the ashes of fire shall be woken,     A light from the shadow shall spring,     Renewed shall be blade that was broken,         The crownless again shall be king. ",28,168,13,2,0,1,22,0.25,1,0,1,1,1,1,0,0,0,0,0,0.5057780335563339
+BILBO,"There and back again, A Hobbit's tale, by Bilbo     Baggins. ,Now, where to begin?     Ah, yes. ,Concerning Hobbits.  ",18,118,6,2,0,4,18,0.25,1,0,0,0,1,0,0,0,0,0,0,0.17753378770846184
+LEGOLAS,"One that is cursed. Long ago the men of the mountains swore an oath to     the last King of Gondor , to come to his aid, to fight. But when     the time came, when Gondor's need was dire, they fled vanishing into the     darkness of the mountain. And so Isildur cursed them, never to rest until     they had fulfilled their pledge. Who shall call them from the grey twilight,     the forgotten people? The heir of him to whom the oath they swore. From the     North shall he come, need shall drive him. He shall pass the door to the     Paths of the Dead.  ",103,557,51,16,3,6,73,-2.125,1,0,2,4,4,0,1,0,1,2,0,0.1414952782896879
+MERRY,Hello?Treebeard?Where has he gone? ,4,35,2,1,0,0,4,0.0,7,0,0,0,0,0,0,0,0,0,0,0.4325146006606944
+GRIMA,"You see much, Eomer, son of Eomund.",7,35,2,1,0,2,7,0.0,0,0,0,0,0,0,0,0,0,0,0,0.32811768661941376
+SAM,He took it.  He must have.  ,6,28,2,2,0,0,5,0.375,0,0,0,0,0,0,0,0,0,0,0,1.5469563545314262
+GOLLUM,"It wasn't us. It wasn't us. ,Smeagol wouldn't hurt master. We promised. You must believe us. It was the precious. The precious made us do it.  ",26,143,12,5,2,1,21,1.25,2,0,0,1,1,0,0,0,0,2,0,0.5137643511016377
 GIMLI,Dead? ,1,6,0,0,1,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0,1.9019404234042214
-THEODEN,Timbers! Brace the gate!       ,4,31,1,0,0,1,4,0.0,4,1,0,0,0,0,0,0,0,0,0,0.4325146006606944
-SAM,"Well, starve, then. And good riddance! ",6,39,1,1,1,0,6,0.625,6,0,0,0,0,0,0,0,0,1,0,1.1073497596416613
-BARLIMAN,"He's one of them rangers. They're dangerous folk they are.      Wandering the wilds.  What his right name is, I've never heard, but     round here, he's known as Strider. ",28,171,8,3,2,1,28,-1.125,1,0,1,0,0,0,0,0,0,0,0,0.32347572566438865
-GANDALF,"Yes, there it lies. This city has dwelt ever in the sight of its shadow. ",15,73,8,1,0,0,15,0.25,1,0,0,0,0,0,0,0,0,0,0,0.5483269672161606
-SAM,"Oh alright, but we don't have that much left. We have to be careful or     we are going to run out. You go ahead and eat that Mr Frodo. I've rationed     it, there should be enough.  ",36,183,19,7,4,2,31,0.625,5,0,0,0,3,0,0,0,0,0,0,0.41603117175747445
-GANDALF,"Authority is not given to you to deny the return of the King, steward. ",14,71,8,2,0,1,12,-1.5,5,0,0,1,1,0,0,0,0,0,0,0.7503748737383669
-GANDALF,    Steady! Steady!  ,2,21,0,0,1,1,1,0.0,5,0,0,0,0,0,0,0,0,0,0,0.0
+THEODEN,Timbers! Brace the gate!       ,4,31,1,0,0,1,4,0.0,3,1,0,0,0,0,0,0,0,0,0,0.4325146006606944
+SAM,"Well, starve, then. And good riddance! ",6,39,1,1,1,0,6,0.625,3,0,0,0,0,0,0,0,0,1,0,1.1073497596416613
+BARLIMAN,"He's one of them rangers. They're dangerous folk they are.      Wandering the wilds.  What his right name is, I've never heard, but     round here, he's known as Strider. ",28,171,8,3,2,1,28,-1.125,0,0,1,0,0,0,0,0,0,0,0,0.32347572566438865
+GANDALF,"Yes, there it lies. This city has dwelt ever in the sight of its shadow. ",15,73,8,1,0,0,15,0.25,0,0,0,0,0,0,0,0,0,0,0,0.5483269672161606
+SAM,"Oh alright, but we don't have that much left. We have to be careful or     we are going to run out. You go ahead and eat that Mr Frodo. I've rationed     it, there should be enough.  ",36,183,19,7,4,2,31,0.625,3,0,0,0,3,0,0,0,0,0,0,0.41603117175747445
+GANDALF,"Authority is not given to you to deny the return of the King, steward. ",14,71,8,2,0,1,12,-1.5,6,0,0,1,1,0,0,0,0,0,0,0.7503748737383669
+GANDALF,    Steady! Steady!  ,2,21,0,0,1,1,1,0.0,6,0,0,0,0,0,0,0,0,0,0,0.0
 THEODEN,  ,0,2,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
 ARAGORN,The beacons of Minas Tirith!  The beacons are lit!   ,9,53,4,1,0,2,7,0.0,5,0,0,0,0,0,0,0,0,0,0,1.0380350415856667
 SAM,What are you doing?            ,4,31,3,1,0,0,4,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
 ARAGORN,    Hold your ground! Hold your ground!  ,6,41,2,2,0,0,3,0.0,4,2,0,0,0,0,0,0,0,0,0,1.8255174894722597
-GANDALF,"  Because 10,000 Orcs now stand between Frodo and Mount Doom.     ",10,66,4,1,0,4,10,-0.75,6,0,0,0,0,0,0,0,0,0,0,0.6785078574535057
-SAM,"  Look!  The Orcs, they're moving off!      ",6,44,1,2,0,1,6,-0.625,0,0,0,0,0,0,0,0,0,0,0,1.172204018917394
-GANDALF,"Sauron fears you, Aragorn.He fears what you may become.And so he'll strike hard and fastat the world of Men.He will use his puppet Sarumanto destroy Rohan.War is coming.Rohan must defend itselfand therein lies our first challenge......for Rohan is weak and ready to fall.    ,The king's mind is enslavedit's an old device of Saruman's.His hold over King Theodenis now very strong.Sauron and Sarumanare tightening the noose.But for all their cunning......we have one advantage. The Ring remains hidden.And that we should seek to destroy it......has not yet enteredtheir darkest dreams. And so the weapon of the enemyis moving towards Mordor......in the hands of a Hobbit.Each day brings it closerto the fires of Mount Doom. We must trust now in Frodo.Everything depends upon speed......and the secrecy of his quest. ",126,815,48,21,8,19,104,-1.0,5,1,1,2,2,2,1,1,0,3,0,0.06281125777385335
+GANDALF,"  Because 10,000 Orcs now stand between Frodo and Mount Doom.     ",10,66,4,1,0,4,10,-0.75,4,0,0,0,0,0,0,0,0,0,0,0.6785078574535057
+SAM,"  Look!  The Orcs, they're moving off!      ",6,44,1,2,0,1,6,-0.625,3,0,0,0,0,0,0,0,0,0,0,1.172204018917394
+GANDALF,"Sauron fears you, Aragorn.He fears what you may become.And so he'll strike hard and fastat the world of Men.He will use his puppet Sarumanto destroy Rohan.War is coming.Rohan must defend itselfand therein lies our first challenge......for Rohan is weak and ready to fall.    ,The king's mind is enslavedit's an old device of Saruman's.His hold over King Theodenis now very strong.Sauron and Sarumanare tightening the noose.But for all their cunning......we have one advantage. The Ring remains hidden.And that we should seek to destroy it......has not yet enteredtheir darkest dreams. And so the weapon of the enemyis moving towards Mordor......in the hands of a Hobbit.Each day brings it closerto the fires of Mount Doom. We must trust now in Frodo.Everything depends upon speed......and the secrecy of his quest. ",126,815,48,21,8,19,104,-1.0,0,1,1,2,2,2,1,1,0,3,0,0.06281125777385335
 LEGOLAS,He is here! ,3,12,2,0,0,0,3,0.125,0,0,0,0,0,0,0,0,0,0,0,0.0
 GANDALF,"We come to it at last.  ,The great battle of our time.   ",12,57,6,1,2,0,12,0.0,5,0,0,1,0,0,0,0,0,1,0,0.6642879944622311
 WITCH KING,     Feast on his flesh.     ,4,29,2,0,0,1,4,0.0,5,0,0,0,0,0,1,0,0,0,0,0.8650292013213888
-BILBO,"    Frodo, any chance of seeing that old Ring of mine again? The one I gave you? ",16,81,6,2,1,2,15,0.375,1,0,0,0,0,0,0,1,0,0,0,0.5394056946104129
-ARWEN,"Then it is a good dream. ,Sleep. ",7,33,4,0,1,1,7,1.0,6,0,0,0,0,0,0,0,0,1,0,0.8072669362747268
-SMEAGOL,"But they knows, ,     they knows, they suspects us! ",9,52,4,3,0,0,6,1.5,6,0,0,0,0,0,0,0,0,0,0,1.5964012093829374
+BILBO,"    Frodo, any chance of seeing that old Ring of mine again? The one I gave you? ",16,81,6,2,1,2,15,0.375,0,0,0,0,0,0,0,1,0,0,0,0.5394056946104129
+ARWEN,"Then it is a good dream. ,Sleep. ",7,33,4,0,1,1,7,1.0,3,0,0,0,0,0,0,0,0,1,0,0.8072669362747268
+GOLLUM,"But they knows, ,     they knows, they suspects us! ",9,52,4,3,0,0,6,1.5,5,0,0,0,0,0,0,0,0,0,0,1.5964012093829374
 SAM,"Get off him! ,     Frodo, are you alright? ",8,43,3,1,0,1,8,-0.5,0,0,0,0,0,0,0,0,0,0,0,0.8650292013213888
-LEGOLAS,I see shapes of men and of horses. ,8,35,4,1,0,0,7,0.0,3,0,0,0,0,0,0,0,0,0,0,1.7780054147180746
-FRODO,Smeagol?           ,1,19,0,0,0,0,1,0.0,4,0,0,0,0,0,0,0,0,0,0,0.0
+LEGOLAS,I see shapes of men and of horses. ,8,35,4,1,0,0,7,0.0,6,0,0,0,0,0,0,0,0,0,0,1.7780054147180746
+FRODO,Smeagol?           ,1,19,0,0,0,0,1,0.0,3,0,0,0,0,0,0,0,0,0,0,0.0
 SAM,"    , Not dead.  ",3,17,1,0,1,0,3,-0.625,0,0,0,0,0,0,0,0,0,0,0,1.9019404234042214
-SAM,"What is it, Mr. Frodo? ",5,23,2,0,0,2,5,0.125,0,0,0,0,0,0,0,0,0,0,0,0.0
-PIPPIN, Frodo! ,1,8,0,0,0,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
+SAM,"What is it, Mr. Frodo? ",5,23,2,0,0,2,5,0.125,3,0,0,0,0,0,0,0,0,0,0,0.0
+PIPPIN, Frodo! ,1,8,0,0,0,1,1,0.0,3,0,0,0,0,0,0,0,0,0,0,0.0
 FRODO,"Your coming to us , is as the footsteps of doom.     You bring great evil here! ,Ringbearer! ",17,93,7,2,1,1,17,0.125,1,0,1,1,0,0,0,0,0,1,0,0.5324874179926371
-SAM,I don't believe you! ,4,21,2,1,0,0,4,0.125,5,0,0,0,0,0,0,0,0,0,0,2.2485140136841943
-DENETHOR,    Set a fire in our flesh!  ,6,30,3,1,0,0,6,0.125,3,0,1,0,0,0,1,0,0,0,0,1.577343280663752
+SAM,I don't believe you! ,4,21,2,1,0,0,4,0.125,7,0,0,0,0,0,0,0,0,0,0,2.2485140136841943
+DENETHOR,    Set a fire in our flesh!  ,6,30,3,1,0,0,6,0.125,5,0,1,0,0,0,1,0,0,0,0,1.577343280663752
 GIMLI,"Forty-two? That's not bad for a pointy-eared Elvish princeling. I myself am sitting pretty on 43.,     ",16,103,7,2,2,0,16,0.125,1,0,0,1,0,0,0,0,0,1,0,0.2426700741949717
 GANDALF,"     It's only a matter of time.  He has suffered a defeat, yes, but behind the walls of Mordor our enemy is regrouping.     ",22,125,12,2,0,1,20,0.0,0,0,0,1,0,1,0,0,0,1,0,0.45781053258120147
 TREEBEARD,"Hold on, little Hobbits.           ",4,35,0,1,1,1,4,-0.25,0,0,0,0,0,0,0,0,0,0,0,0.7606322872801081
-PIPPIN,What're you going to do then ? ,7,31,4,2,0,0,7,0.375,5,0,0,0,0,0,0,0,0,0,0,1.0383299493589795
-SAM,"  Mr Frodo, look. ,  There is light and beauty up there that no shadow can touch.      ",16,87,8,4,0,2,16,0.375,0,0,0,0,0,0,0,0,1,0,0,0.4628320236126432
-FRODO,Smeagol? (shouts) SMEAGOL! SMEAGOL!  ,4,37,0,0,0,2,3,0.0,4,0,0,0,0,0,0,0,0,0,0,0.29416611942441395
-SARUMAN,We have only to remove thosewho oppose us.It will begin in Rohan.Too long have these peasantsstood against you.But no more.,20,123,10,5,1,1,19,-0.25,4,0,0,1,0,1,0,0,0,1,0,0.5303841494987731
-WITCH KING,  You fool!  No man can kill me.  Die now!    ,9,46,3,2,0,0,9,0.375,5,0,1,0,0,0,1,0,0,0,0,1.6624808846247505
+PIPPIN,What're you going to do then ? ,7,31,4,2,0,0,7,0.375,2,0,0,0,0,0,0,0,0,0,0,1.0383299493589795
+SAM,"  Mr Frodo, look. ,  There is light and beauty up there that no shadow can touch.      ",16,87,8,4,0,2,16,0.375,3,0,0,0,0,0,0,0,1,0,0,0.4628320236126432
+FRODO,Smeagol? (shouts) SMEAGOL! SMEAGOL!  ,4,37,0,0,0,2,3,0.0,3,0,0,0,0,0,0,0,0,0,0,0.29416611942441395
+SARUMAN,We have only to remove thosewho oppose us.It will begin in Rohan.Too long have these peasantsstood against you.But no more.,20,123,10,5,1,1,19,-0.25,0,0,0,1,0,1,0,0,0,1,0,0.5303841494987731
+WITCH KING,  You fool!  No man can kill me.  Die now!    ,9,46,3,2,0,0,9,0.375,1,0,1,0,0,0,1,0,0,0,0,1.6624808846247505
 SAM,"Boil them, mash themstick them in a stew.Lovely, big, golden chipswith a nice piece of fried fish.  ",17,100,5,1,5,1,16,-1.0,1,0,0,0,0,0,0,0,0,0,0,0.4199395947213685
 THEODEN,Make haste. We ride through the night.  ,7,40,3,2,0,0,7,0.25,3,0,0,0,0,0,0,0,0,1,0,0.9372898905585535
 IROLAS,They were outnumbered! None survived.  ,5,39,2,2,0,0,5,0.125,0,0,0,0,0,0,0,0,0,0,0,1.4130683320754076
-THEODEN,    DEATH!  ,1,12,0,0,0,1,1,0.0,3,0,0,0,0,0,0,0,0,0,0,2.5950876039641666
-SMEAGOL,"Come on, Hobbits. Long ways to go yet. , Smeagol will show you the way.           ",15,82,4,3,1,2,15,0.375,4,1,0,0,0,0,0,0,0,0,0,0.3545320275531266
-FARAMIR, Tell the men to break cover.  We ride for Minas Tirith. ,11,57,4,3,0,2,11,0.0,6,1,0,0,0,0,0,1,0,0,0,0.4628320236126432
+THEODEN,    DEATH!  ,1,12,0,0,0,1,1,0.0,4,0,0,0,0,0,0,0,0,0,0,2.5950876039641666
+GOLLUM,"Come on, Hobbits. Long ways to go yet. , Smeagol will show you the way.           ",15,82,4,3,1,2,15,0.375,6,1,0,0,0,0,0,0,0,0,0,0.3545320275531266
+FARAMIR, Tell the men to break cover.  We ride for Minas Tirith. ,11,57,4,3,0,2,11,0.0,5,1,0,0,0,0,0,1,0,0,0,0.4628320236126432
 EOMER,"No pauses, , no spills. ",5,24,2,0,0,0,5,-0.375,3,0,0,0,0,0,0,0,0,0,0,1.9611074628294263
 DENETHOR,"And why should your songs be unfit for my halls?  Come, sing me a song.      ",15,77,9,2,1,0,15,-0.375,2,0,0,0,0,0,0,0,0,1,0,0.977683143828564
 SAM,  Let's get you out of here.      ,6,34,3,2,0,0,6,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
 SARUMAN,A man of Rohan? What is the house of Rohan but a thatched barn where brigands drink in the reek and their brats roll on the floor with the dogs? The victory at Helms Deep does not belong to you Theoden Horse Master. You are a lesser son of greater sires!  ,51,256,27,3,3,7,45,-0.375,2,0,0,0,1,0,1,0,0,1,0,0.198096526704848
-GANDALF,"This will be the end of Gondor as we know it.    Here the hammer stroke     will fall hardest.  ,  If the river is taken, if the garrison at Osgiliath     falls, the last defence of this city will be gone.  ",39,207,21,5,1,2,31,0.375,2,0,1,0,1,1,0,0,0,0,0,0.279807863671334
-STRIDER,Sam! Do you know the Athelas plant ? ,8,37,3,1,0,2,8,0.625,2,0,0,0,0,0,0,0,0,0,0,0.7668079516262517
+GANDALF,"This will be the end of Gondor as we know it.    Here the hammer stroke     will fall hardest.  ,  If the river is taken, if the garrison at Osgiliath     falls, the last defence of this city will be gone.  ",39,207,21,5,1,2,31,0.375,7,0,1,0,1,1,0,0,0,0,0,0.279807863671334
+STRIDER,Sam! Do you know the Athelas plant ? ,8,37,3,1,0,2,8,0.625,3,0,0,0,0,0,0,0,0,0,0,0.7668079516262517
 BILBO,"    Tell me again lad, where are we going? ",8,43,5,2,1,0,8,0.0,5,0,0,0,0,0,0,0,0,0,0,1.326663714534373
-LEGOLAS,The horses are restless and the men are quiet. ,9,47,5,0,2,0,8,-0.875,2,0,0,0,1,0,0,0,0,0,0,1.3215173080197318
-ARAGORN, Tell the women and children      to make for the mountain pass. And barricade the entrance!           ,15,103,7,3,0,0,13,0.5,0,0,1,0,0,0,0,0,0,1,0,0.5806817185538674
+LEGOLAS,The horses are restless and the men are quiet. ,9,47,5,0,2,0,8,-0.875,7,0,0,0,1,0,0,0,0,0,0,1.3215173080197318
+ARAGORN, Tell the women and children      to make for the mountain pass. And barricade the entrance!           ,15,103,7,3,0,0,13,0.5,5,0,1,0,0,0,0,0,0,1,0,0.5806817185538674
 PIPPIN,    Hmm?  ,1,10,0,0,0,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
 ARAGORN,Legolas! What do your Elf-eyes see?,6,35,3,1,0,1,6,0.25,4,0,0,0,0,0,0,0,0,0,0,0.6819271532100374
-GOLLUM,It burns!It burns us!It freezes!Nasty Elves twisted it. ,8,56,1,2,0,3,8,0.125,4,0,0,0,0,0,0,0,0,0,0,0.8485256970223426
+GOLLUM,It burns!It burns us!It freezes!Nasty Elves twisted it. ,8,56,1,2,0,3,8,0.125,3,0,0,0,0,0,0,0,0,0,0,0.8485256970223426
 STRIDER,You draw far too much attention to yourself Mr Underhill! ,10,58,4,1,1,2,10,-0.125,1,0,0,0,1,0,0,0,0,0,0,0.7158881327644817
 ORC,  Company halt!  Inspection!      ,3,34,0,0,0,0,3,0.0,5,0,0,0,0,0,0,0,0,0,0,0.4902768657073565
-SAM,Mr. Frodo.Look.It's an oliphaunt.  ,4,35,1,1,0,2,4,-0.125,5,0,0,0,0,0,0,0,0,0,0,0.8650292013213889
-ARWEN,"Gerich veleth n'n, ada. ",4,24,0,0,0,4,4,0.0,1,0,0,0,0,0,0,0,0,0,0,0.9805537314147131
-SAM,"  We have to go in there Mr Frodo.  There's nothing for it. ,  Come on let's just make it down the hill for starters.      ",24,123,12,6,0,2,23,1.25,0,0,0,0,0,0,0,0,0,0,0,0.5272431797588416
+SAM,Mr. Frodo.Look.It's an oliphaunt.  ,4,35,1,1,0,2,4,-0.125,3,0,0,0,0,0,0,0,0,0,0,0.8650292013213889
+ARWEN,"Gerich veleth n'n, ada. ",4,24,0,0,0,4,4,0.0,5,0,0,0,0,0,0,0,0,0,0,0.9805537314147131
+SAM,"  We have to go in there Mr Frodo.  There's nothing for it. ,  Come on let's just make it down the hill for starters.      ",24,123,12,6,0,2,23,1.25,3,0,0,0,0,0,0,0,0,0,0,0.5272431797588416
 SAM,No! ,1,4,0,0,0,0,1,-0.25,0,0,0,0,0,0,0,0,0,0,0,0.0
-ARAGORN,Frodo!  ,1,8,0,0,0,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
-PIPPIN,Can I have some bacon? ,5,23,4,1,0,0,5,0.0,4,0,0,0,0,0,0,0,0,0,0,2.9416611942441393
-CHILDREN HOBBITS,Hooooraaaay!        ,1,20,0,0,0,1,1,0.0,3,0,0,0,0,0,0,0,0,0,0,0.0
+ARAGORN,Frodo!  ,1,8,0,0,0,1,1,0.0,3,0,0,0,0,0,0,0,0,0,0,0.0
+PIPPIN,Can I have some bacon? ,5,23,4,1,0,0,5,0.0,3,0,0,0,0,0,0,0,0,0,0,2.9416611942441393
+CHILDREN HOBBITS,Hooooraaaay!        ,1,20,0,0,0,1,1,0.0,4,0,0,0,0,0,0,0,0,0,0,0.0
 GANDALF,We have just passed into the realm of Gondor. ,9,46,6,1,0,1,9,0.625,4,0,0,0,0,0,0,0,0,0,0,0.8072669362747267
-GANDALF,Courage is the best defence that you have now.   ,9,49,5,1,1,0,9,0.25,2,0,0,0,0,0,0,0,0,0,0,1.3553060670287453
+GANDALF,Courage is the best defence that you have now.   ,9,49,5,1,1,0,9,0.25,3,0,0,0,0,0,0,0,0,0,0,1.3553060670287453
 MERRY,It can't be.           ,3,23,1,0,0,0,3,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
 LEGOLAS,"     Fifteen, sixteen.  ",2,24,0,0,0,1,2,0.0,1,0,0,0,0,0,0,0,0,0,0,0.9805537314147131
 EOWYN,Women of this country learned long ago:Those without swordscan still die upon them.I fear neither death nor pain. ,18,114,3,3,0,0,18,-1.875,6,0,2,2,0,0,0,0,0,1,0,0.3848359938861977
-ARAGORN,Their bonds were cut. ,4,22,2,1,0,0,4,0.125,3,0,0,0,0,1,0,0,0,0,0,2.9416611942441393
-THEODEN,So it begins.       ,3,20,2,1,0,0,3,0.0,4,0,0,0,0,0,0,0,0,0,0,2.136942238027089
-FRODO,What do you mean ?  ,5,20,3,1,0,0,5,0.0,4,0,0,0,0,0,0,0,0,0,0,2.2485140136841943
-ARAGORN,Who are you?Show yourself! ,4,27,2,0,0,0,4,0.0,4,0,0,0,0,0,0,0,0,0,0,2.3923550499100847
-PIPPIN,A mug of ale in my hand. Putting my feet up on a settle after a hard     day's work.  ,19,86,10,1,1,0,17,-0.5,3,0,0,1,0,0,0,0,0,0,0,0.6072521175479345
-FRODO,What happened to her? ,4,22,2,1,0,0,4,0.0,6,0,0,0,0,0,0,0,0,0,0,2.3923550499100847
-FRODO,Because I have to believehe can come back. ,8,43,5,3,0,0,8,0.0,5,0,0,0,0,0,0,0,0,0,0,1.0314139672417575
-SAM,Po-ta-toes. ,1,12,0,0,0,1,1,0.0,3,0,0,0,0,0,0,0,0,0,0,2.9416611942441393
-SAM,  Come on Mr Frodo.  We'd best find you some clothes.  You can't go walking through Mordor in nowt but your skin.      ,21,119,8,4,0,3,21,0.875,0,0,0,0,0,0,0,0,0,0,0,0.39669575328973283
-FRODO,Smeagol? ,1,9,0,0,0,0,1,0.0,4,0,0,0,0,0,0,0,0,0,0,0.0
+ARAGORN,Their bonds were cut. ,4,22,2,1,0,0,4,0.125,6,0,0,0,0,1,0,0,0,0,0,2.9416611942441393
+THEODEN,So it begins.       ,3,20,2,1,0,0,3,0.0,0,0,0,0,0,0,0,0,0,0,0,2.136942238027089
+FRODO,What do you mean ?  ,5,20,3,1,0,0,5,0.0,3,0,0,0,0,0,0,0,0,0,0,2.2485140136841943
+ARAGORN,Who are you?Show yourself! ,4,27,2,0,0,0,4,0.0,7,0,0,0,0,0,0,0,0,0,0,2.3923550499100847
+PIPPIN,A mug of ale in my hand. Putting my feet up on a settle after a hard     day's work.  ,19,86,10,1,1,0,17,-0.5,6,0,0,1,0,0,0,0,0,0,0,0.6072521175479345
+FRODO,What happened to her? ,4,22,2,1,0,0,4,0.0,3,0,0,0,0,0,0,0,0,0,0,2.3923550499100847
+FRODO,Because I have to believehe can come back. ,8,43,5,3,0,0,8,0.0,6,0,0,0,0,0,0,0,0,0,0,1.0314139672417575
+SAM,Po-ta-toes. ,1,12,0,0,0,1,1,0.0,6,0,0,0,0,0,0,0,0,0,0,2.9416611942441393
+SAM,  Come on Mr Frodo.  We'd best find you some clothes.  You can't go walking through Mordor in nowt but your skin.      ,21,119,8,4,0,3,21,0.875,3,0,0,0,0,0,0,0,0,0,0,0.39669575328973283
+FRODO,Smeagol? ,1,9,0,0,0,0,1,0.0,3,0,0,0,0,0,0,0,0,0,0,0.0
 ELROND,I will not leave my daughter hereto die. ,8,41,4,1,0,2,8,-0.5,4,0,1,0,0,1,0,0,1,0,0,1.4130683320754076
 GIMLI,This new Gandalf's more grumpythan the old one. ,8,48,3,0,3,1,8,0.375,4,0,0,0,0,0,0,0,0,0,0,0.9805537314147131
-ARWEN,"This was my choice. Ada, whether by your will or not there is no ship     now that can bear me hence. ",21,102,15,2,0,1,21,-0.625,3,0,0,1,1,0,0,0,0,1,0,0.8244826905105725
-THEODEN,"  I know your face, Eowyn. ,  My eyes darken.     ",9,50,3,2,0,1,9,0.875,0,0,1,0,0,0,0,0,0,0,0,0.6025989479531805
-GIMLI,This is no rabble of mindless Orcs. These are Uruk-hai. Their armour is     thick and their shields broad. ,18,107,10,0,3,2,17,-0.125,5,0,0,1,0,0,0,0,0,0,0,0.537477084300416
-GIMLI,We failed them. ,3,16,1,1,0,0,3,-0.125,0,0,0,0,0,0,0,0,0,0,0,2.5950876039641666
-SARUMAN,"The Ring of Barahir.So Gandalf Greyhamethinks he has found lsildur's heir.The lost king of Gondor.He is a fool.The line was broken years ago. ,It matters not.The world of Men shall fall.It will begin at Edoras. ",35,211,11,5,1,8,33,0.25,0,0,0,1,1,1,0,0,1,0,0,0.16149758415854154
-ARWEN,I don't believe you.  ,4,22,2,1,0,0,4,0.125,5,0,0,0,0,0,0,0,0,0,0,2.2485140136841943
-ARAGORN,"  Long have you hunted me.  Long have I eluded you.  No more! ,  Behold, the Sword of Elendil!      ",18,100,7,2,0,3,16,-0.25,0,0,0,0,0,0,0,0,0,0,0,0.5537154294455926
-SAM,Those rain clouds might. ,4,25,1,0,0,0,4,-0.125,5,0,0,0,0,0,0,0,0,0,0,1.3553060670287453
-PIPPIN,"Don't talk to it, Merry.Don't encourage it! ",7,44,2,2,0,1,7,0.625,6,0,0,0,1,0,0,0,1,0,0,0.980553731414713
+ARWEN,"This was my choice. Ada, whether by your will or not there is no ship     now that can bear me hence. ",21,102,15,2,0,1,21,-0.625,1,0,0,1,1,0,0,0,0,1,0,0.8244826905105725
+THEODEN,"  I know your face, Eowyn. ,  My eyes darken.     ",9,50,3,2,0,1,9,0.875,5,0,1,0,0,0,0,0,0,0,0,0.6025989479531805
+GIMLI,This is no rabble of mindless Orcs. These are Uruk-hai. Their armour is     thick and their shields broad. ,18,107,10,0,3,2,17,-0.125,1,0,0,1,0,0,0,0,0,0,0,0.537477084300416
+GIMLI,We failed them. ,3,16,1,1,0,0,3,-0.125,2,0,0,0,0,0,0,0,0,0,0,2.5950876039641666
+SARUMAN,"The Ring of Barahir.So Gandalf Greyhamethinks he has found lsildur's heir.The lost king of Gondor.He is a fool.The line was broken years ago. ,It matters not.The world of Men shall fall.It will begin at Edoras. ",35,211,11,5,1,8,33,0.25,2,0,0,1,1,1,0,0,1,0,0,0.16149758415854154
+ARWEN,I don't believe you.  ,4,22,2,1,0,0,4,0.125,7,0,0,0,0,0,0,0,0,0,0,2.2485140136841943
+ARAGORN,"  Long have you hunted me.  Long have I eluded you.  No more! ,  Behold, the Sword of Elendil!      ",18,100,7,2,0,3,16,-0.25,6,0,0,0,0,0,0,0,0,0,0,0.5537154294455926
+SAM,Those rain clouds might. ,4,25,1,0,0,0,4,-0.125,7,0,0,0,0,0,0,0,0,0,0,1.3553060670287453
+PIPPIN,"Don't talk to it, Merry.Don't encourage it! ",7,44,2,2,0,1,7,0.625,7,0,0,0,1,0,0,0,1,0,0,0.980553731414713
 GAMLING,"Make way! ( ,We cannot hold much longer!       ",8,47,0,2,0,0,8,-0.125,0,0,0,0,0,0,0,0,0,0,0,0.744891260466094
-BILBO,"Frodo, the door! ,     sticklebacks, where is that boy! FRODO!  ",10,64,4,0,0,2,10,0.375,0,0,0,0,0,0,0,0,0,0,0,0.5536748798208306
+BILBO,"Frodo, the door! ,     sticklebacks, where is that boy! FRODO!  ",10,64,4,0,0,2,10,0.375,3,0,0,0,0,0,0,0,0,0,0,0.5536748798208306
 FRODO,It's a pity Bilbo didnt kill him when he had the chance ,12,56,7,2,0,1,12,0.125,1,0,1,0,0,0,0,1,0,0,1,0.5286069232078928
 PIPPIN,    NO! NO!  ,2,13,0,0,0,1,1,-0.5,0,0,0,0,0,0,0,0,0,0,0,0.0
-WITCH KING,Send forth all legions.  Do not stop the attack until the city is     taken.   ,14,79,7,3,0,0,13,-0.5,3,0,0,1,0,0,0,0,0,0,0,0.568467829073749
-GAMLING,Wargs! ,1,7,0,0,0,1,1,0.0,6,0,0,0,0,0,0,0,0,0,0,0.0
-ARAGORN, What does your     heart tell you? ,6,36,3,1,0,0,6,-0.125,0,0,0,0,0,0,0,0,0,0,0,1.845582932736102
+WITCH KING,Send forth all legions.  Do not stop the attack until the city is     taken.   ,14,79,7,3,0,0,13,-0.5,2,0,0,1,0,0,0,0,0,0,0,0.568467829073749
+GAMLING,Wargs! ,1,7,0,0,0,1,1,0.0,5,0,0,0,0,0,0,0,0,0,0,0.0
+ARAGORN, What does your     heart tell you? ,6,36,3,1,0,0,6,-0.125,5,0,0,0,0,0,0,0,0,0,0,1.845582932736102
 GANDALF,Be careful what you say.Do not look for welcome here.     ,10,58,5,2,1,0,10,0.25,5,0,0,0,1,0,0,0,0,0,0,1.2637550429730697
 MERRY,Help him! ,2,10,0,1,0,0,2,0.5,3,0,0,0,0,0,0,0,0,0,0,0.0
 GANDALF,One stage of your journey is over.Another begins. We must travel to Edoras with all speed. ,16,91,7,2,0,1,16,0.375,3,0,0,0,0,0,0,0,0,1,0,0.49586969161216604
-FARAMIR, Boromir would not have brought the Ring.   He would have stretched     out his hand to this thing and taking it he would have fallen.   ,24,137,13,4,0,2,20,0.0,2,0,0,0,0,0,0,0,0,0,0,0.5336964164225976
+FARAMIR, Boromir would not have brought the Ring.   He would have stretched     out his hand to this thing and taking it he would have fallen.   ,24,137,13,4,0,2,20,0.0,3,0,0,0,0,0,0,0,0,0,0,0.5336964164225976
 GANDALF,"Escaped ,     or was set loose and now the Ring has drawn him here ,      He won't ever be rid of his need for it.  He hates and loves the Ring,     as he hates and loves himself.  Smeagol's life is a sad story    ,  Yes    , he was once called, before the Ring     found him. Before it drove him mad ",60,301,30,11,3,4,46,1.875,1,0,0,1,0,0,0,0,1,0,0,0.34921396791645654
-ARWEN,It is mine to give to whom I will.  Like my heart     ,12,54,7,1,1,0,11,0.25,5,0,0,0,0,0,0,0,0,0,0,0.9372898905585535
-ELROND,     I Aear c'n ven na mar.  ,6,29,1,1,0,2,6,0.0,1,0,0,0,0,1,0,0,0,0,0,0.0
-GIMLI," The dead?     Summoned? I knew that! Huh. Huh. , Very good. Very good. , Legolas!  ",15,84,4,2,3,2,11,2.0,4,0,0,0,0,0,0,0,0,2,0,0.7990151841252036
-GIMLI,Salted pork'  ,2,14,0,1,0,0,2,0.0,6,0,0,0,0,0,0,0,0,0,0,0.9805537314147131
-FRODO,I'm not sending him away. ,5,26,2,1,0,0,5,-0.75,2,0,0,0,0,0,0,0,0,0,0,1.5469563545314262
-SAM,     Frodo! ,1,12,0,0,0,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
+ARWEN,It is mine to give to whom I will.  Like my heart     ,12,54,7,1,1,0,11,0.25,6,0,0,0,0,0,0,0,0,0,0,0.9372898905585535
+ELROND,     I Aear c'n ven na mar.  ,6,29,1,1,0,2,6,0.0,7,0,0,0,0,1,0,0,0,0,0,0.0
+GIMLI," The dead?     Summoned? I knew that! Huh. Huh. , Very good. Very good. , Legolas!  ",15,84,4,2,3,2,11,2.0,3,0,0,0,0,0,0,0,0,2,0,0.7990151841252036
+GIMLI,Salted pork'  ,2,14,0,1,0,0,2,0.0,4,0,0,0,0,0,0,0,0,0,0,0.9805537314147131
+FRODO,I'm not sending him away. ,5,26,2,1,0,0,5,-0.75,6,0,0,0,0,0,0,0,0,0,0,1.5469563545314262
+SAM,     Frodo! ,1,12,0,0,0,1,1,0.0,3,0,0,0,0,0,0,0,0,0,0,0.0
 FARAMIR,No.   ,1,6,0,0,0,0,1,-0.25,0,0,0,0,0,0,0,0,0,0,0,0.0
-THEODEN,"  Bring it down! Bring it down!  Bring it down!,     ",9,53,3,3,0,0,4,0.375,1,0,0,0,0,0,0,0,0,0,0,3.8926314059462497
-PIPPIN,  Merry!     ,1,13,0,0,0,1,1,0.625,6,0,0,0,0,0,0,0,0,0,0,0.0
-HAMA,"I cannot allow you before Theoden King so armed, Gandalf     Greyhame. By order of Grima Wormtongue. ",16,101,6,1,1,6,16,-0.625,1,0,0,1,0,0,0,0,0,0,0,0.1894993687794644
-EOMER,You have no authority here.Your orders mean nothing.,8,52,3,2,0,0,8,-0.25,4,0,0,0,1,0,0,0,0,0,0,0.9229057869359643
-GANDALF,Peregrin Took. I'll take that my lad! Quickly now!  ,9,52,2,2,0,1,9,0.0,3,0,0,0,0,0,0,0,0,0,0,0.7327117445955423
-FRODO,Sam. My dear Sam. ,4,18,1,0,1,2,3,0.125,6,0,0,0,1,0,0,0,0,0,0,2.2485140136841943
+THEODEN,"  Bring it down! Bring it down!  Bring it down!,     ",9,53,3,3,0,0,4,0.375,3,0,0,0,0,0,0,0,0,0,0,3.8926314059462497
+PIPPIN,  Merry!     ,1,13,0,0,0,1,1,0.625,7,0,0,0,0,0,0,0,0,0,0,0.0
+HAMA,"I cannot allow you before Theoden King so armed, Gandalf     Greyhame. By order of Grima Wormtongue. ",16,101,6,1,1,6,16,-0.625,0,0,0,1,0,0,0,0,0,0,0,0.1894993687794644
+EOMER,You have no authority here.Your orders mean nothing.,8,52,3,2,0,0,8,-0.25,7,0,0,0,1,0,0,0,0,0,0,0.9229057869359643
+GANDALF,Peregrin Took. I'll take that my lad! Quickly now!  ,9,52,2,2,0,1,9,0.0,0,0,0,0,0,0,0,0,0,0,0,0.7327117445955423
+FRODO,Sam. My dear Sam. ,4,18,1,0,1,2,3,0.125,1,0,0,0,1,0,0,0,0,0,0,2.2485140136841943
 SAM,Alright!  Alright!  You just startled me is all.  What were you doing?      ,12,76,7,2,0,1,11,1.0,5,0,0,0,0,0,0,0,0,0,0,2.220335268350134
-ARAGORN,"I am Isildur's heir. Fight for me and I will hold your oaths fulfilled.    ,What say you?     ",17,94,8,4,0,1,16,-0.125,5,0,0,0,0,0,0,0,0,0,0,0.5618928757732902
+ARAGORN,"I am Isildur's heir. Fight for me and I will hold your oaths fulfilled.    ,What say you?     ",17,94,8,4,0,1,16,-0.125,1,0,0,0,0,0,0,0,0,0,0,0.5618928757732902
 GRIMA,No!  ,1,5,0,0,0,0,1,-0.25,0,0,0,0,0,0,0,0,0,0,0,0.0
 SOLDIER 1,Where are Theoden's riders? ,4,28,2,0,0,1,4,0.0,6,0,0,0,0,0,0,0,0,0,0,0.7495046712280647
 GENERAL,  Move along scum!      ,3,24,0,1,0,0,3,0.25,2,0,0,0,0,0,1,0,0,0,0,1.3792795730663938
-GOLLUM,    Smeagol lied!      ,2,23,0,1,0,1,2,0.0,4,0,0,0,0,0,0,0,0,0,0,0.6143496351920099
-DENETHOR,Can you sing Master Hobbit? ,5,28,2,1,0,2,5,0.625,6,0,0,0,0,0,0,0,0,1,0,0.8312404423123751
-SOLDIER,Osgiliath is under attack. They call for reinforcements. ,8,57,4,1,0,0,8,0.125,2,1,0,1,0,0,0,0,0,0,0,0.7438689221612528
-GANDALF,From the lowest dungeonto the highest peak...... I fought with the Balrogof Morgoth. ,13,85,6,1,2,2,11,-0.25,2,0,0,0,0,1,0,0,0,1,0,0.5252966418293106
+GOLLUM,    Smeagol lied!      ,2,23,0,1,0,1,2,0.0,3,0,0,0,0,0,0,0,0,0,0,0.6143496351920099
+DENETHOR,Can you sing Master Hobbit? ,5,28,2,1,0,2,5,0.625,1,0,0,0,0,0,0,0,0,1,0,0.8312404423123751
+SOLDIER,Osgiliath is under attack. They call for reinforcements. ,8,57,4,1,0,0,8,0.125,7,1,0,1,0,0,0,0,0,0,0,0.7438689221612528
+GANDALF,From the lowest dungeonto the highest peak...... I fought with the Balrogof Morgoth. ,13,85,6,1,2,2,11,-0.25,0,0,0,0,0,1,0,0,0,1,0,0.5252966418293106
 GIMLI,"...which is, of course, ridiculous. ",5,36,1,0,1,0,5,-0.5,3,0,0,1,0,0,0,0,0,0,0,1.9611074628294263
-ARAGORN,Their pace has quickened.They must have caught our scent.Hurry! ,9,64,4,3,0,0,9,0.625,6,0,0,0,0,0,0,0,0,0,0,0.6247275740974629
-PIPPIN,"I offer you my service, such as it is in payment of this debt.  ",14,64,10,1,1,0,14,0.0,6,0,0,0,1,2,0,0,0,0,0,1.1420071186696583
+ARAGORN,Their pace has quickened.They must have caught our scent.Hurry! ,9,64,4,3,0,0,9,0.625,5,0,0,0,0,0,0,0,0,0,0,0.6247275740974629
+PIPPIN,"I offer you my service, such as it is in payment of this debt.  ",14,64,10,1,1,0,14,0.0,5,0,0,0,1,2,0,0,0,0,0,1.1420071186696583
 EOWYN,My lord? ,2,9,1,0,0,0,2,0.0,2,0,0,0,0,0,1,0,0,0,0,2.045781459630112
-BOROMIR, Aragorn! This.. is Isildur's heir ,5,35,1,0,0,2,5,0.125,6,0,0,0,0,0,0,0,0,0,0,0.28320131155835654
+BOROMIR, Aragorn! This.. is Isildur's heir ,5,35,1,0,0,2,5,0.125,2,0,0,0,0,0,0,0,0,0,0,0.28320131155835654
 KING OF THE DEAD,The dead do not suffer the living to pass.  ,9,44,5,2,0,0,9,-0.625,0,0,0,0,0,1,0,0,0,0,0,0.8791323500682694
-EOMER,Theodred.Find the king's son!,4,29,1,2,0,0,4,0.625,0,0,0,0,1,0,0,0,0,0,0,0.72296686030152
+EOMER,Theodred.Find the king's son!,4,29,1,2,0,0,4,0.625,6,0,0,0,1,0,0,0,0,0,0,0.72296686030152
 GANDALF,Yes. ,1,5,0,0,0,0,1,0.25,0,0,0,0,0,0,0,0,0,0,0,0.0
 SAM,It's just something Gandalf said.  ,5,35,2,1,0,1,5,0.625,0,0,0,0,0,0,0,0,0,0,0,0.8890027073590373
-PIPPIN,"uhh huh , I feel like I'm back at the Green Dragon.  ",12,53,3,1,0,2,12,0.25,0,0,0,0,0,0,0,0,0,0,0,0.8183025830661937
-SMEAGOL,No. No. ,2,8,0,0,0,0,1,-0.5,0,0,0,0,0,0,0,0,0,0,0,0.0
-FRODO,  There are so many of them.  We'll never get through unseen.      ,11,67,5,2,2,0,11,-0.25,0,0,0,0,0,0,0,0,0,0,0,0.846433905378538
-FRODO,    It's been four years to the day since Weathertop Sam. It's never really     healed.  ,14,89,5,1,0,2,13,0.125,1,0,0,0,0,0,0,0,0,0,0,0.4645609742996292
-BARLIMAN,"Gandalf ?  ,Gandalf ? Oh yes!  I remember!  Elderly chap! Big grey     beard, pointy hat.  , Not seen     him for six months.  ",22,127,4,2,4,2,21,-0.5,6,0,0,0,0,0,0,0,0,0,0,0.27904331040855984
+PIPPIN,"uhh huh , I feel like I'm back at the Green Dragon.  ",12,53,3,1,0,2,12,0.25,7,0,0,0,0,0,0,0,0,0,0,0.8183025830661937
+GOLLUM,No. No. ,2,8,0,0,0,0,1,-0.5,0,0,0,0,0,0,0,0,0,0,0,0.0
+FRODO,  There are so many of them.  We'll never get through unseen.      ,11,67,5,2,2,0,11,-0.25,7,0,0,0,0,0,0,0,0,0,0,0.846433905378538
+FRODO,    It's been four years to the day since Weathertop Sam. It's never really     healed.  ,14,89,5,1,0,2,13,0.125,5,0,0,0,0,0,0,0,0,0,0,0.4645609742996292
+BARLIMAN,"Gandalf ?  ,Gandalf ? Oh yes!  I remember!  Elderly chap! Big grey     beard, pointy hat.  , Not seen     him for six months.  ",22,127,4,2,4,2,21,-0.5,5,0,0,0,0,0,0,0,0,0,0,0.27904331040855984
 SARUMAN,"Build a dam, block the streamwork the furnaces night and day.",11,61,4,2,0,0,10,0.0,4,0,0,0,0,0,0,0,0,0,0,0.7382331730944408
-SAM, I'll kill him! ,3,16,0,1,0,0,3,0.0,1,0,1,0,0,0,0,0,0,0,0,2.3923550499100847
+SAM, I'll kill him! ,3,16,0,1,0,0,3,0.0,3,0,1,0,0,0,0,0,0,0,0,2.3923550499100847
 ARAGORN, '-chebin Estel anim.   ,3,24,0,0,0,1,3,0.0,4,0,0,0,0,0,0,0,0,0,0,0.980553731414713
-FRODO,     Better than it was ,4,24,3,0,1,0,4,0.5,5,0,0,0,0,0,0,0,0,0,0,2.9416611942441393
+FRODO,     Better than it was ,4,24,3,0,1,0,4,0.5,6,0,0,0,0,0,0,0,0,0,0,2.9416611942441393
 TREEBEARD,Tree?I am no tree!I am an Ent. ,7,31,4,0,1,1,6,-0.375,2,0,0,1,0,0,0,0,0,0,0,2.849256317369452
-GANDALF,Pippin. ,1,8,0,0,0,1,1,-0.125,0,0,0,0,0,0,0,0,0,0,0,0.0
-ROHAN STABLEMAN,"That horse is half mad, my lord. There's nothing you can do. Leave him. ",14,72,5,3,1,1,14,0.25,4,1,0,1,0,0,1,0,0,0,0,0.7917883820768483
+GANDALF,Pippin. ,1,8,0,0,0,1,1,-0.125,3,0,0,0,0,0,0,0,0,0,0,0.0
+ROHAN STABLEMAN,"That horse is half mad, my lord. There's nothing you can do. Leave him. ",14,72,5,3,1,1,14,0.25,7,1,0,1,0,0,1,0,0,0,0,0.7917883820768483
 SOLDIER,Hold fast the gate!       ,4,26,1,1,0,0,4,0.0,4,1,0,0,0,0,0,0,0,0,0,1.1353846228941404
 ARAGORN,"No, my lord! No, my lord. Let him go. Enough blood has been     spilt on his account. ",17,86,7,3,1,0,15,-0.375,4,1,0,0,0,0,2,0,0,0,0,0.9169820683303361
-GIMLI,Let's hope they last the night.       ,6,38,2,3,0,0,6,0.125,4,0,0,0,0,0,0,0,0,1,0,1.1296352169368946
-HOBBIT,Happy Birthday! ,2,16,0,0,1,1,2,0.875,5,0,0,0,0,0,0,0,0,0,0,0.0
-MORWEN,Eothain! Eothain!You take your sister.You'll go faster with just two.,10,69,3,2,0,1,10,0.625,4,0,0,0,0,0,0,0,0,0,0,0.4884744963970282
-TREEBEARD,"You are young and brave, Master Merry. But your part in this tale is over.      Go back to your home.,     ",20,107,10,1,2,2,19,1.25,0,0,0,0,1,0,0,0,0,0,0,0.49785720332939776
+GIMLI,Let's hope they last the night.       ,6,38,2,3,0,0,6,0.125,5,0,0,0,0,0,0,0,0,1,0,1.1296352169368946
+HOBBIT,Happy Birthday! ,2,16,0,0,1,1,2,0.875,0,0,0,0,0,0,0,0,0,0,0,0.0
+MORWEN,Eothain! Eothain!You take your sister.You'll go faster with just two.,10,69,3,2,0,1,10,0.625,0,0,0,0,0,0,0,0,0,0,0,0.4884744963970282
+TREEBEARD,"You are young and brave, Master Merry. But your part in this tale is over.      Go back to your home.,     ",20,107,10,1,2,2,19,1.25,1,0,0,0,1,0,0,0,0,0,0,0.49785720332939776
 FRODO,"    We set out to save the Shire Sam and it has been saved, but not for me.  ",17,77,11,3,0,2,17,0.125,2,0,0,0,0,0,0,0,1,0,0,1.7300584026427777
-LEGOLAS,"    What about side by side with a friend? ,  ",9,46,5,0,0,0,8,0.125,5,0,0,0,0,0,0,0,1,0,0,1.7993804942987583
-GANDALF,Fool of a Took!  ,4,17,2,0,0,1,4,0.625,5,0,0,0,0,0,0,0,0,0,0,1.845582932736102
-ARAGORN,Do you ride with us? ,5,21,3,1,0,0,5,0.0,1,0,0,0,0,0,0,0,0,0,0,1.7903686477471166
-ARAGORN,Not a word. ,3,12,2,0,0,0,3,-0.625,5,0,0,0,1,0,0,0,0,0,0,2.045781459630112
+LEGOLAS,"    What about side by side with a friend? ,  ",9,46,5,0,0,0,8,0.125,3,0,0,0,0,0,0,0,1,0,0,1.7993804942987583
+GANDALF,Fool of a Took!  ,4,17,2,0,0,1,4,0.625,1,0,0,0,0,0,0,0,0,0,0,1.845582932736102
+ARAGORN,Do you ride with us? ,5,21,3,1,0,0,5,0.0,2,0,0,0,0,0,0,0,0,0,0,1.7903686477471166
+ARAGORN,Not a word. ,3,12,2,0,0,0,3,-0.625,0,0,0,0,1,0,0,0,0,0,0,2.045781459630112
 BOROMIR,They have a cave troll! ,5,24,3,1,0,0,5,0.0,5,0,0,1,0,0,0,0,0,0,0,1.845582932736102
 THEODEN, Gamling.   ,1,12,0,0,0,1,1,0.0,3,0,0,0,0,0,0,0,0,0,0,0.0
-ARAGORN,Tracks lead away from the battle... ,6,36,2,1,0,0,6,0.125,3,0,0,1,1,0,0,0,0,0,0,0.6686650523224391
-FRODO," Nothing.     There's nothing , Wait. There are     markings ,  Its some form of Elvish.  I can't     read it ",18,110,7,4,0,1,17,1.0,2,0,0,0,0,0,0,0,0,0,0,0.5621285034210485
+ARAGORN,Tracks lead away from the battle... ,6,36,2,1,0,0,6,0.125,5,0,0,1,1,0,0,0,0,0,0,0.6686650523224391
+FRODO," Nothing.     There's nothing , Wait. There are     markings ,  Its some form of Elvish.  I can't     read it ",18,110,7,4,0,1,17,1.0,7,0,0,0,0,0,0,0,0,0,0,0.5621285034210485
 GRIMA,Get out of my way! ,5,19,3,1,0,0,5,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
 FRODO,Sam! ,1,5,0,0,0,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
 SAM,Mr. Frodo!Are you all right? ,5,29,2,1,1,1,5,0.0,0,0,0,0,0,0,0,0,0,0,0,0.6143496351920099
 SNAGA,Just a mouthful......a bit of the flank. ,7,41,4,0,1,0,7,0.5,1,0,0,0,0,0,1,0,0,0,0,1.9611074628294263
 PIPPIN,Get down! ,2,10,0,1,0,0,2,0.125,0,0,0,0,0,0,0,0,0,0,0,0.0
 SOLDIER,The beacon!  The beacon of Amon D'n is lit.   ,9,46,4,1,0,1,8,0.125,5,0,0,0,0,0,0,0,0,0,0,2.220335268350134
-ARAGORN,"It has been remade. ,     Fight for us and regain your honour. What say you? ,What say you? ",18,92,7,3,1,1,16,0.5,3,0,0,0,0,0,0,0,0,0,0,1.1766644776976558
-SMEAGOL,No! No! Never! Smeagol hates nasty Hobbitses. Smeagol wants to see them'. Dead! ,13,80,1,3,2,3,11,-2.5,4,0,0,1,0,0,0,0,0,0,0,0.25073125875848784
-ARAGORN,"  Oh, I think he will.      ",5,28,2,1,0,0,5,0.125,2,0,0,0,0,0,0,0,0,0,0,2.045781459630112
-LEGOLAS,Crebain! From Dudland! ,3,23,1,0,0,1,3,0.0,3,0,0,0,0,0,0,0,0,0,0,0.0
-EOWYN,Then you must be at least 60. ,7,30,4,0,0,0,7,0.75,0,0,0,0,0,0,0,0,0,0,0,1.5469563545314262
+ARAGORN,"It has been remade. ,     Fight for us and regain your honour. What say you? ,What say you? ",18,92,7,3,1,1,16,0.5,1,0,0,0,0,0,0,0,0,0,0,1.1766644776976558
+GOLLUM,No! No! Never! Smeagol hates nasty Hobbitses. Smeagol wants to see them'. Dead! ,13,80,1,3,2,3,11,-2.5,3,0,0,1,0,0,0,0,0,0,0,0.25073125875848784
+ARAGORN,"  Oh, I think he will.      ",5,28,2,1,0,0,5,0.125,7,0,0,0,0,0,0,0,0,0,0,2.045781459630112
+LEGOLAS,Crebain! From Dudland! ,3,23,1,0,0,1,3,0.0,1,0,0,0,0,0,0,0,0,0,0,0.0
+EOWYN,Then you must be at least 60. ,7,30,4,0,0,0,7,0.75,7,0,0,0,0,0,0,0,0,0,0,1.5469563545314262
 SOLDIER,Look! Osgiliath burns!       ,3,29,0,1,0,0,3,0.0,3,0,0,0,0,0,0,0,0,0,0,0.7495046712280647
 SAM,There are dead things!Dead faces in the water. ,8,47,4,1,1,1,8,0.0,0,0,0,0,0,0,0,0,0,0,0,0.9789660997077375
 SARUMAN,The power of Isengard is at your command ,8,41,5,0,0,1,8,0.125,6,0,0,0,0,0,0,0,0,0,0,0.8072669362747268
 PIPPIN,The mightiest man may be slain by one arrow and Boromir was pierced by     many. ,15,81,6,2,2,1,14,0.375,2,0,0,0,0,0,0,0,0,0,0,0.5438129136522182
 FRODO,Oh Sam!  ,2,9,0,0,0,1,2,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
-BOROMIR,and what would a     ranger know of this matter ? ,10,50,5,0,0,0,10,0.5,0,1,0,0,0,0,0,0,0,0,0,0.8639730371188822
+BOROMIR,and what would a     ranger know of this matter ? ,10,50,5,0,0,0,10,0.5,5,1,0,0,0,0,0,0,0,0,0,0.8639730371188822
 SHAGRAT,    What's this?  ,2,18,0,0,0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
 LEGOLAS,Forgive me. ,2,12,0,1,0,0,2,0.25,2,0,0,0,0,0,0,0,0,0,0,0.0
-EOMER,"  Drive them to the river. ,     ",6,33,3,1,0,0,6,0.0,5,0,0,0,0,0,0,0,0,0,0,1.6624808846247505
-SAURON,  Aha!  Old Greybeard!  I have a token I was bidden to show thee.      ,13,71,6,3,0,3,12,0.0,5,1,0,0,0,0,0,0,0,0,0,0.7478225755095002
-SAM,"    , Frodo! ",2,13,0,0,0,1,2,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
-SARUMAN,The world is changing.Who now has the strength to standagainst the armies of Isengard......and Mordor?To stand against the might of Sauronand Saruman......and the union of the two towers?,28,187,14,3,0,3,22,0.375,0,0,0,0,1,0,0,0,0,0,0,0.2620461874965205
-ARAGORN,"Brego. 'in nama is cynglic. (,) ",6,32,1,0,1,2,6,0.125,5,0,0,0,0,0,0,0,0,0,0,0.980553731414713
-SAM,"I know. It's all wrong.      ,By rights, we shouldn't even be here.      But we are. It's like in the great stories, Mr. Frodo. The ones that really mattered.      ,Full of darkness and danger they were.      And sometimes you didn't want to know the end.....because how could the end be happy?       How could the world go back      to the way it was...... when so much bad had happened?           ",67,399,32,6,5,2,58,0.5,5,0,1,2,0,1,0,0,0,1,0,0.1941914050370142
-MERRY,It's Saruman's army.The war has started.,6,40,2,1,0,1,6,0.0,6,0,1,0,0,0,0,0,0,0,0,0.7974516833033616
-GANDALF,"Guard of the Citadel indeed! , Now back up the hill     quickly. Quick!  ",13,73,5,0,1,1,12,0.0,1,0,0,0,0,0,0,0,0,0,0,0.7204061904836612
+EOMER,"  Drive them to the river. ,     ",6,33,3,1,0,0,6,0.0,6,0,0,0,0,0,0,0,0,0,0,1.6624808846247505
+SAURON,  Aha!  Old Greybeard!  I have a token I was bidden to show thee.      ,13,71,6,3,0,3,12,0.0,7,1,0,0,0,0,0,0,0,0,0,0.7478225755095002
+SAM,"    , Frodo! ",2,13,0,0,0,1,2,0.0,3,0,0,0,0,0,0,0,0,0,0,0.0
+SARUMAN,The world is changing.Who now has the strength to standagainst the armies of Isengard......and Mordor?To stand against the might of Sauronand Saruman......and the union of the two towers?,28,187,14,3,0,3,22,0.375,7,0,0,0,1,0,0,0,0,0,0,0.2620461874965205
+ARAGORN,"Brego. 'in nama is cynglic. (,) ",6,32,1,0,1,2,6,0.125,0,0,0,0,0,0,0,0,0,0,0,0.980553731414713
+SAM,"I know. It's all wrong.      ,By rights, we shouldn't even be here.      But we are. It's like in the great stories, Mr. Frodo. The ones that really mattered.      ,Full of darkness and danger they were.      And sometimes you didn't want to know the end.....because how could the end be happy?       How could the world go back      to the way it was...... when so much bad had happened?           ",67,399,32,6,5,2,58,0.5,0,0,1,2,0,1,0,0,0,1,0,0.1941914050370142
+MERRY,It's Saruman's army.The war has started.,6,40,2,1,0,1,6,0.0,7,0,1,0,0,0,0,0,0,0,0,0.7974516833033616
+GANDALF,"Guard of the Citadel indeed! , Now back up the hill     quickly. Quick!  ",13,73,5,0,1,1,12,0.0,0,0,0,0,0,0,0,0,0,0,0,0.7204061904836612
 GANDALF,"Fight them back! ,Peregrin Took! Go back to the Citadel. ",10,57,3,3,0,2,10,0.0,1,0,0,0,0,0,0,0,0,0,0,0.596193735740084
-FRODO,"    My dear Sam, you cannot always be torn in two. , You will     have to be one and whole for many years. You have so much to enjoy and to be     and to do. Your part in the story will go on.  ",42,194,24,6,4,1,31,0.125,0,0,0,0,1,1,0,0,0,1,0,0.3911349876045432
-ELROND,Our time here is ending.Arwen's time is ending.Let her go.Let her take the ship into the west.Let her bear away her love for youto the Undying Lands.There it will be ever green. ,32,178,16,8,1,4,25,0.875,5,0,0,1,0,0,0,0,2,3,0,0.26967039988945507
-MERRY,    Frodo!  ,1,12,0,0,0,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
-GANDALF,"I will draw you, Saruman, as poison is drawn from a wound.",12,58,6,2,0,1,12,0.125,6,0,0,2,0,0,0,0,0,0,0,0.715128267075776
+FRODO,"    My dear Sam, you cannot always be torn in two. , You will     have to be one and whole for many years. You have so much to enjoy and to be     and to do. Your part in the story will go on.  ",42,194,24,6,4,1,31,0.125,3,0,0,0,1,1,0,0,0,1,0,0.3911349876045432
+ELROND,Our time here is ending.Arwen's time is ending.Let her go.Let her take the ship into the west.Let her bear away her love for youto the Undying Lands.There it will be ever green. ,32,178,16,8,1,4,25,0.875,2,0,0,1,0,0,0,0,2,3,0,0.26967039988945507
+MERRY,    Frodo!  ,1,12,0,0,0,1,1,0.0,3,0,0,0,0,0,0,0,0,0,0,0.0
+GANDALF,"I will draw you, Saruman, as poison is drawn from a wound.",12,58,6,2,0,1,12,0.125,5,0,0,2,0,0,0,0,0,0,0,0.715128267075776
 PIPPIN,What is it? ,3,12,2,0,0,0,3,0.125,0,0,0,0,0,0,0,0,0,0,0,0.0
-SAM,Call me' ,2,9,0,1,0,0,2,0.0,3,0,0,0,0,0,0,0,0,0,0,2.2485140136841943
-KING OF THE DEAD,None but the King of Gondor may command me!  ,9,45,3,1,0,2,9,0.0,1,0,0,0,0,0,0,0,0,0,0,0.727946235605326
-FRODO,"The Ring will not save Gondor.      , It has only the power to destroy.      Please......Iet me go.        ",17,107,9,4,0,3,17,0.125,2,0,0,0,0,0,0,0,1,0,0,0.4419875298661217
-FRODO, I'm all right.   ,3,18,1,0,1,0,3,0.0,1,0,0,0,0,0,0,0,0,0,0,1.8430489055760297
-SMEAGOL,And take it for Meee! ,5,22,3,1,0,1,5,0.0,3,0,0,0,0,0,0,0,0,0,0,0.5967895492490388
+SAM,Call me' ,2,9,0,1,0,0,2,0.0,1,0,0,0,0,0,0,0,0,0,0,2.2485140136841943
+KING OF THE DEAD,None but the King of Gondor may command me!  ,9,45,3,1,0,2,9,0.0,6,0,0,0,0,0,0,0,0,0,0,0.727946235605326
+FRODO,"The Ring will not save Gondor.      , It has only the power to destroy.      Please......Iet me go.        ",17,107,9,4,0,3,17,0.125,1,0,0,0,0,0,0,0,1,0,0,0.4419875298661217
+FRODO, I'm all right.   ,3,18,1,0,1,0,3,0.0,0,0,0,0,0,0,0,0,0,0,0,1.8430489055760297
+GOLLUM,And take it for Meee! ,5,22,3,1,0,1,5,0.0,2,0,0,0,0,0,0,0,0,0,0,0.5967895492490388
 GANDALF,Get up! ,2,8,0,1,0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
 MERRY,Put it back! ,3,13,1,1,0,0,3,0.0,1,0,0,0,0,0,0,0,0,0,0,1.6591865155133712
-GIMLI,"Well!  Here's one dwarf she won't ensnare so easily! I     have the eyes of a hawk, and ears of a fox!  ",21,104,11,2,0,0,19,0.5,6,0,1,0,0,0,0,0,0,0,0,0.538229982709199
-GIMLI,Bring your pretty face to my axe. ,7,34,3,1,1,0,7,0.75,1,0,0,0,0,0,0,0,0,1,0,0.8312404423123751
-EOTHAIN,"Yes, Mama.",2,10,0,0,0,1,2,1.125,6,0,0,0,0,0,0,0,0,0,0,0.0
-PIPPIN,Merry! ,1,7,0,0,0,1,1,0.625,6,0,0,0,0,0,0,0,0,0,0,0.0
-GIMLI,Aragorn!       ,1,15,0,0,0,0,1,0.0,6,0,0,0,0,0,0,0,0,0,0,0.0
+GIMLI,"Well!  Here's one dwarf she won't ensnare so easily! I     have the eyes of a hawk, and ears of a fox!  ",21,104,11,2,0,0,19,0.5,1,0,1,0,0,0,0,0,0,0,0,0.538229982709199
+GIMLI,Bring your pretty face to my axe. ,7,34,3,1,1,0,7,0.75,3,0,0,0,0,0,0,0,0,1,0,0.8312404423123751
+EOTHAIN,"Yes, Mama.",2,10,0,0,0,1,2,1.125,1,0,0,0,0,0,0,0,0,0,0,0.0
+PIPPIN,Merry! ,1,7,0,0,0,1,1,0.625,7,0,0,0,0,0,0,0,0,0,0,0.0
+GIMLI,Aragorn!       ,1,15,0,0,0,0,1,0.0,2,0,0,0,0,0,0,0,0,0,0,0.0
 GOLLUM,      Then we stabs them out. Put out his eyeses and make him crawl.           ,13,79,7,4,0,0,13,0.75,3,0,0,0,0,0,1,0,0,0,0,1.0321458898028475
-LEGOLAS,A scout! ,2,9,1,0,0,0,2,0.0,2,0,0,0,0,0,0,0,0,0,0,2.9416611942441393
+LEGOLAS,A scout! ,2,9,1,0,0,0,2,0.0,7,0,0,0,0,0,0,0,0,0,0,2.9416611942441393
 DENETHOR,"    You may triumph in the field of battle for a day, but against the power that     has risen in the east, there is no victory!  ",25,130,16,3,0,0,22,0.625,6,0,0,1,0,0,0,0,0,2,0,0.653909080856252
-GOLLUM,Master must go inside the tunnel.  ,6,35,1,1,0,1,6,1.0,2,0,0,0,0,0,0,0,0,0,0,1.0177617861802584
+GOLLUM,Master must go inside the tunnel.  ,6,35,1,1,0,1,6,1.0,0,0,0,0,0,0,0,0,0,0,0,1.0177617861802584
 GANDALF,"  Frodo has passed beyond my sight. ,  The darkness is deepening.      ",11,71,4,2,0,1,11,-0.125,3,0,0,1,0,0,0,0,0,0,0,0.588050311217769
 THEODEN,"Simbelmyne. Ever has it grown on the tombs of my forebearers.,Now it shall cover the grave    of my son. Alas that these evil days should be mine. The young perish and     the old linger. That I should live......to see the last days of my house. ",45,246,23,4,4,1,35,0.5,1,1,2,1,0,0,0,0,0,1,0,0.23439919933594694
 MERRY,No ,1,3,1,0,0,0,1,-0.25,0,0,0,0,0,0,0,0,0,0,0,0.0
-STRIDER, She died.    ,2,14,1,1,0,0,2,0.0,2,0,0,0,0,0,0,0,0,0,0,2.3923550499100847
-EOWYN,    Courage Merry. Courage for our friends.  ,6,45,2,0,0,2,5,0.5,2,0,0,0,0,0,0,0,0,0,0,1.4015158790660753
-PIPPIN,Mordor. ,1,8,0,0,0,1,1,0.0,6,0,0,0,0,0,0,0,0,0,0,0.0
+STRIDER, She died.    ,2,14,1,1,0,0,2,0.0,5,0,0,0,0,0,0,0,0,0,0,2.3923550499100847
+EOWYN,    Courage Merry. Courage for our friends.  ,6,45,2,0,0,2,5,0.5,3,0,0,0,0,0,0,0,0,0,0,1.4015158790660753
+PIPPIN,Mordor. ,1,8,0,0,0,1,1,0.0,7,0,0,0,0,0,0,0,0,0,0,0.0
 LEGOLAS,Why doesn't that surprise me! ,5,30,3,1,0,0,5,0.125,1,0,1,0,0,0,0,0,0,0,0,2.9416611942441393
-BOROMIR,Its moving fast.... against the wind ,6,37,3,1,0,0,6,0.0,0,0,0,0,0,0,0,0,0,0,0,1.2637550429730697
-WITCH KING,"    Do you not know death when you see it, old man? , This is my hour!     ",16,75,8,2,1,0,15,0.125,2,0,0,1,0,0,0,0,0,0,0,1.199322552286946
-FRODO,Half the Shire's been invited.     And the rest of them are turning up anyway.  ,14,80,8,2,0,0,13,0.25,2,0,0,0,1,0,0,0,0,0,0,0.635918136698552
+BOROMIR,Its moving fast.... against the wind ,6,37,3,1,0,0,6,0.0,2,0,0,0,0,0,0,0,0,0,0,1.2637550429730697
+WITCH KING,"    Do you not know death when you see it, old man? , This is my hour!     ",16,75,8,2,1,0,15,0.125,5,0,0,1,0,0,0,0,0,0,0,1.199322552286946
+FRODO,Half the Shire's been invited.     And the rest of them are turning up anyway.  ,14,80,8,2,0,0,13,0.25,0,0,0,0,1,0,0,0,0,0,0,0.635918136698552
 BILBO,What's this?  ,2,14,0,0,0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
-FRODO,Now that I'm here I don't think I want to.  ,10,44,6,2,0,0,9,-0.25,3,0,0,0,0,0,0,0,0,0,0,1.4793788365133989
-MERRY,"It's good. Definitely from the Shire. ,Longbottom leaf eh?  ",9,60,3,0,1,2,9,0.75,0,0,0,0,0,0,0,0,0,1,0,0.3460116805285556
-SMEAGOL,We must get the precious! We must get it back! ,10,47,4,2,1,0,7,1.125,0,0,0,0,0,0,0,0,0,1,0,1.0704532006598124
-FRODO,"No, it isn't. It isn't midday yet. , The days are growing darker.  ",13,67,5,1,0,0,13,0.25,0,0,0,0,0,0,0,0,0,0,0,1.0100542521888953
-GANDALF,Three days ride as the Nazg'l flies. And you'd better hope we don't have     one of those on our tail. ,20,103,11,4,0,1,20,0.625,5,0,0,0,0,0,0,0,0,1,0,0.488097250113063
-ARAGORN,They would be small.Only children to your eyes. ,8,48,4,0,1,0,8,0.25,0,0,0,0,0,0,0,0,0,0,0,0.9719472495865507
-SAM,"Captain Faramir......you have shown your quality, sir.           ",7,65,2,1,0,4,7,0.75,5,0,0,0,1,0,0,0,0,0,0,0.29416611942441395
+FRODO,Now that I'm here I don't think I want to.  ,10,44,6,2,0,0,9,-0.25,7,0,0,0,0,0,0,0,0,0,0,1.4793788365133989
+MERRY,"It's good. Definitely from the Shire. ,Longbottom leaf eh?  ",9,60,3,0,1,2,9,0.75,3,0,0,0,0,0,0,0,0,1,0,0.3460116805285556
+GOLLUM,We must get the precious! We must get it back! ,10,47,4,2,1,0,7,1.125,0,0,0,0,0,0,0,0,0,1,0,1.0704532006598124
+FRODO,"No, it isn't. It isn't midday yet. , The days are growing darker.  ",13,67,5,1,0,0,13,0.25,2,0,0,0,0,0,0,0,0,0,0,1.0100542521888953
+GANDALF,Three days ride as the Nazg'l flies. And you'd better hope we don't have     one of those on our tail. ,20,103,11,4,0,1,20,0.625,4,0,0,0,0,0,0,0,0,1,0,0.488097250113063
+ARAGORN,They would be small.Only children to your eyes. ,8,48,4,0,1,0,8,0.25,4,0,0,0,0,0,0,0,0,0,0,0.9719472495865507
+SAM,"Captain Faramir......you have shown your quality, sir.           ",7,65,2,1,0,4,7,0.75,4,0,0,0,1,0,0,0,0,0,0,0.29416611942441395
 MERRY,"     The Brandywine Bridge, twenty miles. ",5,42,1,0,0,2,5,0.0,4,0,0,0,0,0,0,0,0,0,0,0.2595087603964167
-PIPPIN,It is in the ground  ,5,21,4,0,0,0,5,0.125,2,1,0,0,0,0,0,0,0,0,0,2.5950876039641666
-EOWYN,You are one of the Dunedain.A descendant of Numenorblessed with long life.It was said that your racehad passed into legend. ,20,124,10,3,1,1,19,0.0,5,0,0,0,0,0,0,0,0,1,0,0.39016479034637597
+PIPPIN,It is in the ground  ,5,21,4,0,0,0,5,0.125,0,1,0,0,0,0,0,0,0,0,0,2.5950876039641666
+EOWYN,You are one of the Dunedain.A descendant of Numenorblessed with long life.It was said that your racehad passed into legend. ,20,124,10,3,1,1,19,0.0,6,0,0,0,0,0,0,0,0,1,0,0.39016479034637597
 BOROMIR,For Gondor! ,2,12,1,0,0,1,2,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
-SAM,"    Then let us be rid of it once and for all! Come on Mr Frodo, I can't carry     it for you, but I can carry you! Come on!  ",28,126,14,6,0,2,23,0.875,5,0,0,0,0,0,0,0,0,0,0,0.4233696249848092
-FRODO,It's getting heavier. ,3,22,1,1,1,0,3,0.0,4,0,0,0,0,0,0,0,0,0,0,1.692867810757076
-GANDALF,"Edoras and the Golden Hall of Meduseld. There dwells Theoden,     King of Rohan...... whose mind is overthrown. Saruman's hold over King     Theoden is now very strong. ",26,169,10,2,1,10,23,1.375,2,0,0,0,0,0,0,0,0,0,0,0.19737904049237642
-GIMLI,He fell. ,2,9,1,1,0,0,2,0.0,2,0,0,0,0,1,0,0,0,0,0,2.3923550499100847
-SAM,What's to ruin? There's hardly any meaton them.  ,8,49,2,2,0,0,8,-0.375,3,0,1,0,0,0,0,0,0,0,0,1.2789485060392325
+SAM,"    Then let us be rid of it once and for all! Come on Mr Frodo, I can't carry     it for you, but I can carry you! Come on!  ",28,126,14,6,0,2,23,0.875,6,0,0,0,0,0,0,0,0,0,0,0.4233696249848092
+FRODO,It's getting heavier. ,3,22,1,1,1,0,3,0.0,7,0,0,0,0,0,0,0,0,0,0,1.692867810757076
+GANDALF,"Edoras and the Golden Hall of Meduseld. There dwells Theoden,     King of Rohan...... whose mind is overthrown. Saruman's hold over King     Theoden is now very strong. ",26,169,10,2,1,10,23,1.375,1,0,0,0,0,0,0,0,0,0,0,0.19737904049237642
+GIMLI,He fell. ,2,9,1,1,0,0,2,0.0,1,0,0,0,0,1,0,0,0,0,0,2.3923550499100847
+SAM,What's to ruin? There's hardly any meaton them.  ,8,49,2,2,0,0,8,-0.375,0,0,1,0,0,0,0,0,0,0,0,1.2789485060392325
 ARAGORN,They will hold. ,3,16,2,1,0,0,3,0.125,4,0,0,0,0,0,0,0,0,0,0,1.9687061197164828
 MERRY,What's that? ,2,13,0,0,0,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
 GOLLUM,Yes......on the precious.....On the precious. ,5,46,2,0,2,0,4,1.0,2,0,0,0,0,0,0,0,0,2,0,2.998018684912259
@@ -272,89 +272,89 @@ SAM,"Get down! I said, down! ",5,24,1,2,0,0,4,0.25,0,0,0,0,0,0,0,0,0,0,0,2.3923
 SAURON,I see you! ,3,11,1,1,0,0,3,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
 MERRY and PIPPIN,Help! ,1,6,0,1,0,0,1,0.5,3,0,0,0,0,0,0,0,0,0,0,0.0
 FRODO,Get away! ,2,10,0,1,0,0,2,0.0,6,0,0,0,0,0,0,0,0,0,0,2.045781459630112
-SARUMAN,The Old World will burnin the fires of industry.The forests will fall.A new order will rise.We will drive the machine of warwith the sword and the spear...... and the iron fists of the Orc. We have only     to remove those who oppose us. ,43,238,22,7,1,4,32,1.125,1,1,0,2,1,1,0,0,0,0,0,0.2650079700243419
-PIPPIN,He needs medicine my lord!  ,5,28,2,1,0,1,5,0.0,4,0,0,0,0,0,1,0,0,0,0,1.159358128931789
-FRODO,    Smeagol promised!  ,2,23,0,1,0,1,2,0.0,1,0,0,0,0,0,0,0,0,0,0,0.7974516833033616
-MERRY,What?  It was just a detour. A shortcut ,8,40,5,0,0,0,8,0.875,4,0,0,0,0,0,0,0,0,0,0,1.9611074628294263
-ARAGORN,I was raised in Rivendell......for a time.Turn this fellow free. He's     seen enough of war. ,15,94,6,3,2,2,15,0.0,4,0,1,0,1,0,0,0,0,0,0,0.47219263477552137
+SARUMAN,The Old World will burnin the fires of industry.The forests will fall.A new order will rise.We will drive the machine of warwith the sword and the spear...... and the iron fists of the Orc. We have only     to remove those who oppose us. ,43,238,22,7,1,4,32,1.125,0,1,0,2,1,1,0,0,0,0,0,0.2650079700243419
+PIPPIN,He needs medicine my lord!  ,5,28,2,1,0,1,5,0.0,2,0,0,0,0,0,1,0,0,0,0,1.159358128931789
+FRODO,    Smeagol promised!  ,2,23,0,1,0,1,2,0.0,3,0,0,0,0,0,0,0,0,0,0,0.7974516833033616
+MERRY,What?  It was just a detour. A shortcut ,8,40,5,0,0,0,8,0.875,0,0,0,0,0,0,0,0,0,0,0,1.9611074628294263
+ARAGORN,I was raised in Rivendell......for a time.Turn this fellow free. He's     seen enough of war. ,15,94,6,3,2,2,15,0.0,0,0,1,0,1,0,0,0,0,0,0,0.47219263477552137
 FRODO,Gandalf! ,1,9,0,0,1,0,1,0.0,4,0,0,0,0,0,0,0,0,0,0,0.0
-ARAGORN,Haldir!       ,1,14,0,0,0,1,1,0.0,4,0,0,0,0,0,0,0,0,0,0,0.0
-GANDALF,Saruman! You were deep in the enemy's counsel. Tell us what you know!  ,13,71,6,2,1,0,13,0.75,6,0,0,1,1,0,0,0,0,0,0,0.6228217953433314
-PIPPIN,There's no more stars!  Is it time?   ,7,38,4,1,1,0,7,-0.125,6,0,0,0,0,0,0,0,0,1,0,1.2628316724916886
-SMEAGOL,"Don't ask Smeagol. Poor, poor Smeagol.           ",6,49,1,1,2,2,5,0.0,4,0,0,0,0,0,0,0,0,0,0,1.1766644776976558
-FARAMIR, You're a friend of Boromir? ,5,29,3,0,0,1,5,0.125,4,0,0,0,0,0,0,0,1,0,0,0.7495046712280647
-EOMER,These Orcs are not from Mordor.,6,31,4,0,0,2,6,-0.625,6,0,0,0,0,0,0,0,0,0,0,0.7974516833033616
+ARAGORN,Haldir!       ,1,14,0,0,0,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
+GANDALF,Saruman! You were deep in the enemy's counsel. Tell us what you know!  ,13,71,6,2,1,0,13,0.75,5,0,0,1,1,0,0,0,0,0,0,0.6228217953433314
+PIPPIN,There's no more stars!  Is it time?   ,7,38,4,1,1,0,7,-0.125,1,0,0,0,0,0,0,0,0,1,0,1.2628316724916886
+GOLLUM,"Don't ask Smeagol. Poor, poor Smeagol.           ",6,49,1,1,2,2,5,0.0,3,0,0,0,0,0,0,0,0,0,0,1.1766644776976558
+FARAMIR, You're a friend of Boromir? ,5,29,3,0,0,1,5,0.125,3,0,0,0,0,0,0,0,1,0,0,0.7495046712280647
+EOMER,These Orcs are not from Mordor.,6,31,4,0,0,2,6,-0.625,7,0,0,0,0,0,0,0,0,0,0,0.7974516833033616
 TREEBEARD,"The filth of Saruman is washing away. Trees will come back to live here. ,Young trees. Wild trees.  ",18,100,5,3,2,1,17,-0.75,6,0,0,0,0,0,1,0,0,0,0,0.4915065442011152
-TREEBEARD,Hooom! ,1,7,0,0,0,1,1,0.0,2,0,0,0,0,0,0,0,0,0,0,0.0
+TREEBEARD,Hooom! ,1,7,0,0,0,1,1,0.0,3,0,0,0,0,0,0,0,0,0,0,0.0
 PIPPIN,     Thanks  ,1,13,0,0,0,0,1,0.125,2,0,0,0,0,0,0,0,0,0,0,0.0
-EOWYN,We need you here.   ,4,20,2,1,0,0,4,0.0,6,0,0,0,0,0,0,0,0,0,0,1.9687061197164828
+EOWYN,We need you here.   ,4,20,2,1,0,0,4,0.0,5,0,0,0,0,0,0,0,0,0,0,1.9687061197164828
 DENETHOR,"lt has fallen into the hands of     the Elves. Everyone will try to claim it: Men, Dwarves, wizards. We cannot     let that happen. This thing must come to Gondor. ",29,164,11,6,0,3,27,0.375,2,0,0,0,0,0,0,0,0,1,0,0.2514380925156715
-MORWEN," Freda, I will find     you there.",6,34,3,1,0,1,6,0.75,0,0,0,0,0,0,0,0,0,0,0,0.8650292013213888
+MORWEN," Freda, I will find     you there.",6,34,3,1,0,1,6,0.75,3,0,0,0,0,0,0,0,0,0,0,0.8650292013213888
 GRISHNAKH,What about their legs?They don't need those. ,7,45,4,1,0,0,7,0.0,3,0,0,0,0,0,0,0,0,0,0,1.453687056542189
 FRODO,Speech! ,1,8,0,0,0,1,1,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
 FRODO,It's a riddle!  ,3,16,2,0,0,0,3,-0.625,4,0,0,0,0,0,0,1,0,0,0,2.9416611942441393
-GAMLING,To few have come.  We cannot defeat the armies of Mordor.   ,11,60,6,2,1,1,11,-0.875,0,0,0,0,0,1,0,0,0,0,0,0.5651346113981005
-GOLLUM,The Dead City!  Very nasty place full of enemies. ,9,50,3,0,2,2,9,-0.375,0,0,0,1,1,0,0,0,0,0,0,0.4943024007550794
-FRODO,Bilbo! Bilbo!  Watch out for the dragon     ,7,44,3,1,0,2,6,0.0,4,0,1,0,0,0,0,0,0,0,0,0.5883322388488279
-SOLDIER,We need 10 more.   ,4,19,1,1,1,0,4,0.0,6,0,0,0,0,0,0,0,0,0,0,1.9687061197164828
-GANDALF,You're in the service of the steward now.  You'll have to do as you are     told Peregrin Took. ,18,96,12,3,0,2,17,0.0,5,0,0,0,1,0,0,0,0,0,0,0.7382331730944408
+GAMLING,To few have come.  We cannot defeat the armies of Mordor.   ,11,60,6,2,1,1,11,-0.875,4,0,0,0,0,1,0,0,0,0,0,0.5651346113981005
+GOLLUM,The Dead City!  Very nasty place full of enemies. ,9,50,3,0,2,2,9,-0.375,2,0,0,1,1,0,0,0,0,0,0,0.4943024007550794
+FRODO,Bilbo! Bilbo!  Watch out for the dragon     ,7,44,3,1,0,2,6,0.0,5,0,1,0,0,0,0,0,0,0,0,0.5883322388488279
+SOLDIER,We need 10 more.   ,4,19,1,1,1,0,4,0.0,5,0,0,0,0,0,0,0,0,0,0,1.9687061197164828
+GANDALF,You're in the service of the steward now.  You'll have to do as you are     told Peregrin Took. ,18,96,12,3,0,2,17,0.0,7,0,0,0,1,0,0,0,0,0,0,0.7382331730944408
 THEODEN,Hail the victorious dead ,4,25,1,1,2,0,4,0.5,3,0,0,0,0,0,0,0,1,0,0,0.8072669362747267
-SAM,"Mr. Frodo, no. ",3,15,0,0,0,3,3,-0.25,0,0,0,0,0,0,0,0,0,0,0,0.0
-GIMLI,..and are never seen again ,5,27,2,1,0,0,5,-0.625,4,0,0,0,0,0,0,0,0,0,0,1.424628158684726
-ARWEN,"If I leave him now, I will regret it forever. It is time. ",13,58,8,2,0,0,12,-0.625,3,0,0,0,0,2,0,0,0,1,0,1.02211235502974
-GANDALF,Meriadoc Brandybuck and Peregrin Took! I might have known! ,9,59,3,2,0,3,9,-0.125,5,0,0,0,0,0,0,0,0,0,0,0.3707268005663095
+SAM,"Mr. Frodo, no. ",3,15,0,0,0,3,3,-0.25,3,0,0,0,0,0,0,0,0,0,0,0.0
+GIMLI,..and are never seen again ,5,27,2,1,0,0,5,-0.625,5,0,0,0,0,0,0,0,0,0,0,1.424628158684726
+ARWEN,"If I leave him now, I will regret it forever. It is time. ",13,58,8,2,0,0,12,-0.625,0,0,0,0,0,2,0,0,0,1,0,1.02211235502974
+GANDALF,Meriadoc Brandybuck and Peregrin Took! I might have known! ,9,59,3,2,0,3,9,-0.125,0,0,0,0,0,0,0,0,0,0,0,0.3707268005663095
 FRODO,"  It's Him, the Eye!     ",4,25,2,0,0,2,4,0.0,0,0,0,0,0,0,0,0,0,0,0,0.0
-SOLDIER,Captain? ,1,9,0,0,0,0,1,0.375,5,0,0,0,0,0,0,0,0,0,0,0.0
-FARAMIR,Father?  ,1,9,0,0,0,1,1,0.0,1,0,0,0,0,0,0,0,0,0,0,2.9416611942441393
-GIMLI, I will be     dead before I see the Ring in the hands of an elf ,15,65,10,1,1,1,13,0.0,0,0,0,1,0,0,0,0,0,0,0,0.9803219278345567
-GIMLI,"If we cannot pass over the mountain, let us go under it! Let     us go through the Mines of Moria ",20,98,8,5,0,2,17,-0.625,1,0,0,0,0,0,0,0,0,1,0,0.5629833273601815
-ORC,But nothing can breach it!  ,5,28,2,1,0,0,5,0.0,0,0,0,0,0,1,0,0,0,0,0,1.6145338725494536
-FRODO,If you scare him off then we are lost! ,9,39,7,2,0,0,9,-0.25,0,0,0,1,0,1,0,0,0,0,0,1.845582932736102
-TREEBEARD,"Sleep, little Shirelings.Heed no nightly noise.Sleep till morning light.I have business in the forest.There are many to call.Many that must come. ,The Shadow lies on Fangorn.The withering of all woodsis drawing near.",32,216,10,7,4,3,32,-0.625,1,0,0,0,0,0,0,0,0,0,0,0.13532502950024097
-FRODO,We wish to at the Inn.  Our business is our own. ,11,49,7,1,1,1,11,0.625,3,0,0,0,0,0,0,0,0,0,0,1.7300584026427777
-THEODEN,All riders to the head of the column. ,8,38,5,0,0,0,7,0.0,3,0,0,0,0,0,0,0,0,0,0,1.2975438019820833
-ARAGORN,It's a long way.       ,4,23,2,0,1,0,4,0.0,5,0,0,0,0,0,0,0,0,1,0,1.8430489055760297
-STRIDER,"Indeed , I can avoid being seen if I wish.      But to disappear entirely     That is a rare gift! ",19,99,10,4,1,0,18,1.125,3,0,2,0,0,0,0,0,0,1,0,0.6217221390960026
-SAM,"    Do you remember the Shire Mr Frodo? It will be Spring soon and the orchards     will be in blossom. And the birds will be nesting in the hazel thickets. (He     is crying.) And they will be sowing the summer barley in the lower fields,     (Frodo opens his eyes and looks at him.) and eating the first of the     strawberries and cream. Do you remember the taste of strawberries?  ",68,385,37,8,3,4,44,0.75,0,0,0,0,0,2,0,0,1,1,0,0.1878815370160255
-GRIMA,This order does not come from me.It comes from the king.He signed it this morning.,15,82,8,3,0,0,14,-0.625,1,0,0,0,0,0,0,0,0,0,0,0.7508070937548803
+SOLDIER,Captain? ,1,9,0,0,0,0,1,0.375,4,0,0,0,0,0,0,0,0,0,0,0.0
+FARAMIR,Father?  ,1,9,0,0,0,1,1,0.0,2,0,0,0,0,0,0,0,0,0,0,2.9416611942441393
+GIMLI, I will be     dead before I see the Ring in the hands of an elf ,15,65,10,1,1,1,13,0.0,1,0,0,1,0,0,0,0,0,0,0,0.9803219278345567
+GIMLI,"If we cannot pass over the mountain, let us go under it! Let     us go through the Mines of Moria ",20,98,8,5,0,2,17,-0.625,0,0,0,0,0,0,0,0,0,1,0,0.5629833273601815
+ORC,But nothing can breach it!  ,5,28,2,1,0,0,5,0.0,3,0,0,0,0,1,0,0,0,0,0,1.6145338725494536
+FRODO,If you scare him off then we are lost! ,9,39,7,2,0,0,9,-0.25,5,0,0,1,0,1,0,0,0,0,0,1.845582932736102
+TREEBEARD,"Sleep, little Shirelings.Heed no nightly noise.Sleep till morning light.I have business in the forest.There are many to call.Many that must come. ,The Shadow lies on Fangorn.The withering of all woodsis drawing near.",32,216,10,7,4,3,32,-0.625,3,0,0,0,0,0,0,0,0,0,0,0.13532502950024097
+FRODO,We wish to at the Inn.  Our business is our own. ,11,49,7,1,1,1,11,0.625,4,0,0,0,0,0,0,0,0,0,0,1.7300584026427777
+THEODEN,All riders to the head of the column. ,8,38,5,0,0,0,7,0.0,6,0,0,0,0,0,0,0,0,0,0,1.2975438019820833
+ARAGORN,It's a long way.       ,4,23,2,0,1,0,4,0.0,6,0,0,0,0,0,0,0,0,1,0,1.8430489055760297
+STRIDER,"Indeed , I can avoid being seen if I wish.      But to disappear entirely     That is a rare gift! ",19,99,10,4,1,0,18,1.125,7,0,2,0,0,0,0,0,0,1,0,0.6217221390960026
+SAM,"    Do you remember the Shire Mr Frodo? It will be Spring soon and the orchards     will be in blossom. And the birds will be nesting in the hazel thickets. (He     is crying.) And they will be sowing the summer barley in the lower fields,     (Frodo opens his eyes and looks at him.) and eating the first of the     strawberries and cream. Do you remember the taste of strawberries?  ",68,385,37,8,3,4,44,0.75,4,0,0,0,0,2,0,0,1,1,0,0.1878815370160255
+GRIMA,This order does not come from me.It comes from the king.He signed it this morning.,15,82,8,3,0,0,14,-0.625,6,0,0,0,0,0,0,0,0,0,0,0.7508070937548803
 ARWEN,I have made my choice. ,5,23,3,1,0,0,5,0.0,4,0,0,0,1,0,0,0,0,0,0,1.6145338725494536
-GANDALF,"They guard it because they have hope. A faint and fading hope that one     day it will flower. That a king will come and this city will be as it once     was before it fell into decay. ,     The old wisdom born out of the west was forsaken. Kings made tombs more     splendid than the houses of the living and counted the old names of their     descent , dearer than the names of their sons.    ,     Childless lords sat in aged halls musing on heraldry or in high, cold towers     asking questions of the stars. And so the people of Gondor fell into ruin.    ,     The line of Kings failed. The white tree withered. The rule of Gondor was     given over to lesser men.",124,669,61,16,11,4,87,-1.125,2,0,5,2,2,3,2,0,1,2,0,0.09730320289372987
-SAM,Ssh.. be quiet ,3,15,1,0,1,0,3,0.0,4,0,0,0,1,0,0,0,0,0,0,2.5950876039641666
-BILBO,"My dear Bagginses and Boffins, , Tooks and Brandybucks ,, Grubbs ,, Chubbs    ,, Hornblowers ,, Bulgers ,,     Bracegirdles ,, and Proudfoots ",22,142,4,0,1,8,15,0.125,2,0,0,0,1,0,0,0,0,0,0,0.07863901830194446
-TREEBEARD,"Hobbits?Never heard of a Hobbit before.Sounds like Orc mischief to me! ,They come with fire.They come with axes.Gnawing, biting, breakinghacking, burning! Destroyers and usurpers! Curse them! ",26,192,6,5,1,1,24,-1.25,0,0,0,0,0,1,0,0,0,0,0,0.2021157467333722
-ARAGORN," , Show yourself.     ",3,22,0,1,0,0,3,0.0,4,0,0,0,0,0,0,0,0,0,0,2.3923550499100847
-PIPPIN,Wont we? ,2,9,0,0,0,0,2,0.0,3,0,0,0,0,0,0,0,0,0,0,0.0
-EOMER,"Warmongering?,How long is it sinceSaruman bought you?What was the promised price, Grima?When all the Men are deadyou will take your share of the treasure?",24,154,11,3,0,3,22,0.25,3,0,0,0,0,0,0,0,0,3,0,0.3141527056735444
-BOROMIR," Then we are here on a     common purpose , friend. ",10,52,6,0,1,0,10,0.5,1,0,0,0,0,0,0,0,1,0,0,1.3553060670287453
+GANDALF,"They guard it because they have hope. A faint and fading hope that one     day it will flower. That a king will come and this city will be as it once     was before it fell into decay. ,     The old wisdom born out of the west was forsaken. Kings made tombs more     splendid than the houses of the living and counted the old names of their     descent , dearer than the names of their sons.    ,     Childless lords sat in aged halls musing on heraldry or in high, cold towers     asking questions of the stars. And so the people of Gondor fell into ruin.    ,     The line of Kings failed. The white tree withered. The rule of Gondor was     given over to lesser men.",124,669,61,16,11,4,87,-1.125,1,0,5,2,2,3,2,0,1,2,0,0.09730320289372987
+SAM,Ssh.. be quiet ,3,15,1,0,1,0,3,0.0,7,0,0,0,1,0,0,0,0,0,0,2.5950876039641666
+BILBO,"My dear Bagginses and Boffins, , Tooks and Brandybucks ,, Grubbs ,, Chubbs    ,, Hornblowers ,, Bulgers ,,     Bracegirdles ,, and Proudfoots ",22,142,4,0,1,8,15,0.125,0,0,0,0,1,0,0,0,0,0,0,0.07863901830194446
+TREEBEARD,"Hobbits?Never heard of a Hobbit before.Sounds like Orc mischief to me! ,They come with fire.They come with axes.Gnawing, biting, breakinghacking, burning! Destroyers and usurpers! Curse them! ",26,192,6,5,1,1,24,-1.25,7,0,0,0,0,1,0,0,0,0,0,0.2021157467333722
+ARAGORN," , Show yourself.     ",3,22,0,1,0,0,3,0.0,7,0,0,0,0,0,0,0,0,0,0,2.3923550499100847
+PIPPIN,Wont we? ,2,9,0,0,0,0,2,0.0,7,0,0,0,0,0,0,0,0,0,0,0.0
+EOMER,"Warmongering?,How long is it sinceSaruman bought you?What was the promised price, Grima?When all the Men are deadyou will take your share of the treasure?",24,154,11,3,0,3,22,0.25,7,0,0,0,0,0,0,0,0,3,0,0.3141527056735444
+BOROMIR," Then we are here on a     common purpose , friend. ",10,52,6,0,1,0,10,0.5,0,0,0,0,0,0,0,0,1,0,0,1.3553060670287453
 THEODEN,"    Gamling, follow the King's banner down the centre. Grimbold! Take your company right after you pass the wall. Forth and fear no darkness!     , Arise! Arise riders of Theoden. Spears shall be shaken, shields shall be splintered, a sword day, a red day ere the sun rises!! ",47,276,15,8,2,5,41,-1.625,1,0,0,2,0,0,0,0,0,1,0,0.14815678222543946
 ARAGORN,Saruman.,1,8,0,0,0,1,1,0.0,6,0,0,0,0,0,0,0,0,0,0,0.0
-ORC,"But, my lord, there are too many!They cannot all be armed in timewe don't have the means.",17,89,10,3,0,1,17,-0.75,4,0,0,1,0,0,1,0,0,0,0,0.5160526171577525
+ORC,"But, my lord, there are too many!They cannot all be armed in timewe don't have the means.",17,89,10,3,0,1,17,-0.75,7,0,0,1,0,0,1,0,0,0,0,0.5160526171577525
 THEODEN,"Duty? ,     no. , I     would have you smile again, not grieve for those whose time has come. You     shall live to see these days renewed , ' and no more despair ",32,163,13,7,0,1,30,-1.75,6,0,1,1,0,0,0,0,1,1,0,0.32747076563080174
-TREEBEARD,Little Orcs. ,2,13,0,0,1,1,2,-0.25,0,0,0,0,0,0,0,0,0,0,0,1.6624808846247505
-FRODO,"Mordor, Gandalf, is it left or right ? ",8,39,3,1,1,2,8,0.125,5,0,0,0,0,0,0,0,0,0,0,0.4438136509540197
-MERRY,We're under orders from Treebeard who's taken over management of Isengard.        ,11,82,4,1,0,2,11,0.0,4,0,0,0,1,0,0,0,0,0,0,0.4884744963970282
+TREEBEARD,Little Orcs. ,2,13,0,0,1,1,2,-0.25,6,0,0,0,0,0,0,0,0,0,0,1.6624808846247505
+FRODO,"Mordor, Gandalf, is it left or right ? ",8,39,3,1,1,2,8,0.125,4,0,0,0,0,0,0,0,0,0,0,0.4438136509540197
+MERRY,We're under orders from Treebeard who's taken over management of Isengard.        ,11,82,4,1,0,2,11,0.0,7,0,0,0,1,0,0,0,0,0,0,0.4884744963970282
 GIMLI,Good!       ,1,12,0,0,0,0,1,0.5,3,0,0,0,0,0,0,0,0,0,0,2.2485140136841943
-SARUMAN," Shadow, flame ",2,15,0,0,0,1,2,0.0,5,0,0,0,0,0,0,0,0,0,0,1.7780054147180746
-FRODO,"  He doesn't     eat it. , He can't have taken     it.   ",10,57,4,2,0,0,8,0.0,2,0,0,0,1,0,0,0,0,0,0,2.2485140136841943
-THEODEN,"And Rohan will answer!  Muster the Rohirrim.  ,      Assemble the army at Dunharrow,  as many men as can be found.  You have two     days. ,  On the third, we ride for Gondor' and     war.  ",34,190,16,6,2,4,30,0.125,0,0,1,0,0,0,0,0,1,0,0,0.15092263818914398
-BARLIMAN,"Underhill , yes.. ",3,18,0,0,0,1,3,0.25,3,0,0,0,0,0,0,0,0,0,0,0.0
+SARUMAN," Shadow, flame ",2,15,0,0,0,1,2,0.0,7,0,0,0,0,0,0,0,0,0,0,1.7780054147180746
+FRODO,"  He doesn't     eat it. , He can't have taken     it.   ",10,57,4,2,0,0,8,0.0,7,0,0,0,1,0,0,0,0,0,0,2.2485140136841943
+THEODEN,"And Rohan will answer!  Muster the Rohirrim.  ,      Assemble the army at Dunharrow,  as many men as can be found.  You have two     days. ,  On the third, we ride for Gondor' and     war.  ",34,190,16,6,2,4,30,0.125,6,0,1,0,0,0,0,0,1,0,0,0.15092263818914398
+BARLIMAN,"Underhill , yes.. ",3,18,0,0,0,1,3,0.25,1,0,0,0,0,0,0,0,0,0,0,0.0
 MERCENARY,"Boarded, by you and whose army?  ",6,33,3,1,0,0,6,0.0,3,0,0,0,0,0,0,0,0,0,0,0.7734781772657131
 GANDALF,  Silence!     ,1,15,0,0,0,1,1,0.0,3,0,0,0,0,0,0,0,0,0,0,0.0
-FRODO, What is this place?  ,4,22,3,0,0,0,4,0.125,0,0,0,0,0,0,0,0,0,0,0,2.5950876039641666
+FRODO, What is this place?  ,4,22,3,0,0,0,4,0.125,2,0,0,0,0,0,0,0,0,0,0,2.5950876039641666
 MERRY,Trees. Climb a tree. ,4,21,1,1,0,0,4,0.0,2,0,0,1,0,0,0,0,0,0,0,1.9149050243920827
 TREEBEARD,Maybe you are......and maybe you aren't.The White Wizard will know. ,10,68,3,1,0,3,9,0.875,3,0,0,0,0,0,0,0,0,0,0,1.287276912065214
-FRODO,It's just a feeling.  I don't think I'll be coming back. ,11,57,6,2,0,0,11,0.625,0,0,0,1,0,0,0,0,0,1,0,0.7887691672800685
-DENETHOR,    Faramir!  ,1,14,0,0,0,1,1,0.0,5,0,0,0,0,0,0,0,0,0,0,0.0
-ARAGORN,Six thousand will not be enough to break the lines of Mordor.   ,12,64,6,1,1,1,12,-0.5,6,0,1,0,0,0,0,1,0,0,0,0.6649923538499002
-PIPPIN,"Baggins ?  Sure I know a Baggins!  He's over     there.  Frodo Baggins! He's my second cousin once removed on his     mother's side , and my     third cousin twice removed on his father's side, if you follow me.  ",37,213,13,4,2,3,30,0.375,5,1,0,0,0,0,0,0,0,1,0,0.300827494873612
+FRODO,It's just a feeling.  I don't think I'll be coming back. ,11,57,6,2,0,0,11,0.625,7,0,0,1,0,0,0,0,0,1,0,0.7887691672800685
+DENETHOR,    Faramir!  ,1,14,0,0,0,1,1,0.0,4,0,0,0,0,0,0,0,0,0,0,0.0
+ARAGORN,Six thousand will not be enough to break the lines of Mordor.   ,12,64,6,1,1,1,12,-0.5,2,0,1,0,0,0,0,1,0,0,0,0.6649923538499002
+PIPPIN,"Baggins ?  Sure I know a Baggins!  He's over     there.  Frodo Baggins! He's my second cousin once removed on his     mother's side , and my     third cousin twice removed on his father's side, if you follow me.  ",37,213,13,4,2,3,30,0.375,7,1,0,0,0,0,0,0,0,1,0,0.300827494873612
 SAM,Ssh! Gandalf's thinking ,3,24,0,0,0,1,3,0.125,4,0,0,0,0,0,0,0,0,0,0,0.6819271532100374
 MADRIL,"We pulled 500 men at Osgiliath. If their city is attacked, we won't hold     it. ",15,81,7,3,0,1,15,0.125,4,0,0,0,0,0,0,0,0,0,0,0.47725875517632116
 BILBO," So there I was at the mercy of three monstrous trolls and     they were all arguing amongst themselves about how they were going to cook     us. Whether it be turned on a spit or whether they should sit on us one by     one and squash us into jelly. , They     spent so much time arguing the witherto's and whyfor's that the sun's first     light cracked open over the top of the trees.  Poof!    , and turned them all into     stone! ",80,436,42,10,4,4,61,0.625,1,0,0,2,1,1,1,0,0,3,0,0.19872131253687716
-FARAMIR,"That's enough. ,Where     are you leading them? ,Answer me. ",9,60,2,2,1,0,9,0.0,3,1,0,0,0,0,0,0,0,0,0,1.2637550429730697
-GOLLUM,"    Yeees! , Yeees!    , Precious! My Precious!     ",7,52,1,1,1,2,4,0.75,2,0,0,0,0,0,0,0,0,0,0,0.8994056054736778
-FRODO,What's the meaning of this ? ,6,29,3,0,0,0,6,0.0,4,0,0,0,0,0,0,0,0,0,0,2.2485140136841943
-GOLLUM,Come away Hobbits.  We climb.  We must climb.   ,8,48,2,3,0,1,6,0.375,6,0,0,0,0,0,0,0,0,0,0,0.8142509618880877
-SMEAGOL,"This way, Hobbits.Follow me! ",4,29,1,1,0,1,4,0.0,3,0,0,0,0,0,0,0,0,0,0,0.8650292013213888
-FRODO,     I'm glad to be with you Samwise Gamgee here at the end of all things.     They hug. ,17,89,10,0,1,3,17,0.125,0,0,0,0,0,0,0,0,1,1,0,0.4684374752089093
-THEODEN," No, we cannot.  But we will meet them in battle nonetheless.      ",11,67,6,1,0,0,10,-1.125,2,0,0,1,0,0,0,0,0,0,0,1.0033776825576695
-UGLUK,Looks like meat's back on the menuboys. ,7,40,2,1,0,0,7,0.125,5,0,0,0,0,0,0,0,0,0,0,0.7720927710288641
+FARAMIR,"That's enough. ,Where     are you leading them? ,Answer me. ",9,60,2,2,1,0,9,0.0,6,1,0,0,0,0,0,0,0,0,0,1.2637550429730697
+GOLLUM,"    Yeees! , Yeees!    , Precious! My Precious!     ",7,52,1,1,1,2,4,0.75,0,0,0,0,0,0,0,0,0,0,0,0.8994056054736778
+FRODO,What's the meaning of this ? ,6,29,3,0,0,0,6,0.0,3,0,0,0,0,0,0,0,0,0,0,2.2485140136841943
+GOLLUM,Come away Hobbits.  We climb.  We must climb.   ,8,48,2,3,0,1,6,0.375,4,0,0,0,0,0,0,0,0,0,0,0.8142509618880877
+GOLLUM,"This way, Hobbits.Follow me! ",4,29,1,1,0,1,4,0.0,3,0,0,0,0,0,0,0,0,0,0,0.8650292013213888
+FRODO,     I'm glad to be with you Samwise Gamgee here at the end of all things.     They hug. ,17,89,10,0,1,3,17,0.125,3,0,0,0,0,0,0,0,1,1,0,0.4684374752089093
+THEODEN," No, we cannot.  But we will meet them in battle nonetheless.      ",11,67,6,1,0,0,10,-1.125,0,0,0,1,0,0,0,0,0,0,0,1.0033776825576695
+UGLUK,Looks like meat's back on the menuboys. ,7,40,2,1,0,0,7,0.125,3,0,0,0,0,0,0,0,0,0,0,0.7720927710288641
